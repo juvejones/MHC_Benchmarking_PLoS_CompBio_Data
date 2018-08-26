@@ -1,0 +1,16 @@
+{
+    "contents" : "library(ROCR)\n\nallele_list <- read.table(\"../CountLogStrip\", sep=\"\")\ndf <- data.frame(allele_list[[1]])\nauc <- list()\nskewness <- list()\nfor (j in 1:length(allele_list[[1]])){\n  allele <- allele_list[[1]][j]\n  file <- paste(\"../netmhc4/Rdata/\",allele,\".txt\", sep=\"\")\n  if (file.exists(file)){\n    datafile <- read.table(file, \n                           col.names=c(\"peptide\",\"meas_nm\",\"meas_bi\",\n                                       \"meas_contin\",\"predict\",\"predict_rank\"),sep=\"\\t\", \n                           header= FALSE, comment.char=\"#\")\n  }\n  else{\n    print(paste(\"file not exist for allele:\", allele))\n    auc[j] <- NULL\n    skewness[j] <- NULL\n    next\n  }\n  data <- data.frame(datafile)\n  headerline <- which (with(data,peptide==\"peptide\"))\n  data <- data[-headerline,]\n  \n  auc[j] <- tryCatch(\n    {\n      pred <- prediction(as.numeric(data$predict),as.numeric(data$meas_bi))\n      perf_auc <- performance(pred,\"auc\",fpr.stop=1.0)\n      auc[j] <- perf_auc@y.values\n    },\n    error=function(cond){\n      message(paste(cond, \"\\n\", sep=\"\"))\n      return(NA)\n    }\n  )\n  \n  pos <- 0\n  neg <- 0\n  for (i in 1:length(data$meas_bi)){\n    if (as.numeric(as.character(data$meas_bi[i])) == 1){\n      pos <- pos + 1\n    } \n    else{\n      neg <- neg + 1\n    }\n  }\n  skewness[j] <- log(exp(pos))/log(exp(neg)+exp(pos))\n}\ndf$auc <- auc\ndf$sk <- skewness\nprint(as.matrix(df))\noutputfile <- \"test\"\nwrite.table(as.matrix(df), outputfile, col.names=c(\"Allele\", \"AUC\", \"Skn\"), \n            row.names=F, append=F, sep=\"\\t\")",
+    "created" : 1477513035750.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1390734712",
+    "id" : "8F755651",
+    "lastKnownWriteTime" : 1477514450,
+    "path" : "/SFS/user/ctc/zhaoweil/MHC1_IedbNewData_Results/project/Rsum/DataSkewness.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,8 @@
+library(RColorBrewer)
+library(ggplot2)
+data <- data.frame(data)
+#p <- ggplot(data,aes(Method,Se,fill=Method))
+p <- ggplot(data,aes(Method,fill=Method))
+#p <- p + geom_crossbar(aes(y = VUS,ymin = (VUS-VUS...), ymax = (VUS+VUS...)), width = 0.5)
+p <- p + geom_bar(aes(weight = Se),width = 0.5)
+p + scale_fill_brewer(palette="Set1") + theme(legend.text=element_text(size=18), axis.title=element_text(size=18), axis.text.x = element_blank(), axis.text.y = element_text(size=16)) + ylim(0,0.6)+ ylab("Specificity")

@@ -1,0 +1,1275 @@
+No.	Allele	Peptide	Length	Qualitative Measure	Quantitative Measure	Units
+1	H2-Kb	AAEEFAFL	8	Positive	-	-
+2	H2-Kb	AAFEFINSL	9	Positive-High	1.3	IC50 nM
+3	H2-Kb	AAIESLREM	9	Positive	-	-
+4	H2-Kb	AALKNLCFYS	10	Positive-Low	4010	IC50 nM
+5	H2-Kb	AAMLIRQGL	9	Positive-Low	1080	IC50 nM
+6	H2-Kb	AAMSRHPPL	9	Positive	-	-
+7	H2-Kb	AAVYNFATCGI	11	Positive	-	-
+8	H2-Kb	AAWVNMPSL	9	Positive-Intermediate	367	IC50 nM
+9	H2-Kb	AAYAYAAL	8	Positive	-	-
+10	H2-Kb	AAYEFTTL	8	Positive	-	-
+11	H2-Kb	ADHPFIFL	8	Positive-Intermediate	-	-
+12	H2-Kb	ADKNFTLM	8	Positive	-	-
+13	H2-Kb	AEALGPFQSF	10	Positive-Low	2180	IC50 nM
+14	H2-Kb	AEALGPFQSFV	11	Positive-Intermediate	277	IC50 nM
+15	H2-Kb	AEYIYPSL	8	Positive	-	-
+16	H2-Kb	AFNKKTFDH	9	Positive-Low	1850	IC50 nM
+17	H2-Kb	AFPSFAGL	8	Positive	-	-
+18	H2-Kb	AGLEEYSAM	9	Positive-Low	-	-
+19	H2-Kb	AGLLSDHKS	9	Positive-Intermediate	160	IC50 nM
+20	H2-Kb	AGLTYSQL	8	Positive-High	2.96	IC50 nM
+21	H2-Kb	AGQLYSTL	8	Positive-High	12.9	IC50 nM
+22	H2-Kb	AGYMYTQL	8	Positive	-	-
+23	H2-Kb	AGYVYQGL	8	Positive	20	IC50 nM
+24	H2-Kb	AHRDHICLL	9	Positive-Intermediate	311	IC50 nM
+25	H2-Kb	AIFFTTSL	8	Positive-Intermediate	306	IC50 nM
+26	H2-Kb	AIMKFHSM	8	Positive-High	-	-
+27	H2-Kb	AINNYAQKL	9	Positive	-	-
+28	H2-Kb	AIVNYANL	8	Positive	-	-
+29	H2-Kb	AKSVFNSL	8	Positive	-	-
+30	H2-Kb	ALFEGRNL	8	Positive-Low	1510	IC50 nM
+31	H2-Kb	ALGPFQSF	8	Positive-Low	4450	IC50 nM
+32	H2-Kb	ALGPFQSFV	9	Positive-Low	4060	IC50 nM
+33	H2-Kb	ALGPFQSFVS	10	Positive-Low	3960	IC50 nM
+34	H2-Kb	ALHLFKTTV	9	Positive-Intermediate	470	IC50 nM
+35	H2-Kb	ALISFLLL	8	Positive-Low	933	IC50 nM
+36	H2-Kb	ALNTFTNL	8	Positive	-	-
+37	H2-Kb	AMDDFQLI	8	Positive	-	-
+38	H2-Kb	ANCNFTLV	8	Positive	-	-
+39	H2-Kb	ANFKFRDL	8	Positive-High	4.59	IC50 nM
+40	H2-Kb	ANFKFRDLL	9	Positive-High	1.38	IC50 nM
+41	H2-Kb	ANFKFRDLLF	10	Positive-High	0.185	IC50 nM
+42	H2-Kb	ANFKFRDLLFK	11	Positive-Intermediate	93	IC50 nM
+43	H2-Kb	ANFSFRNTL	9	Positive-High	2.69	IC50 nM
+44	H2-Kb	ANHAFTLV	8	Positive	-	-
+45	H2-Kb	ANHAFTVV	8	Positive	-	-
+46	H2-Kb	ANHDFTLV	8	Positive	-	-
+47	H2-Kb	ANHKFTLV	8	Positive	-	-
+48	H2-Kb	ANHNFTLV	8	Positive	-	-
+49	H2-Kb	ANLGYWLL	8	Positive	-	-
+50	H2-Kb	ANNEFTLV	8	Positive	-	-
+51	H2-Kb	ANNKFTLV	8	Positive	-	-
+52	H2-Kb	ANSKFTLV	8	Positive	-	-
+53	H2-Kb	ANYDFICV	8	Positive	-	-
+54	H2-Kb	ANYDFINV	8	Positive	-	-
+55	H2-Kb	ANYDFTLV	8	Positive	-	-
+56	H2-Kb	ANYEFTLV	8	Positive	-	-
+57	H2-Kb	ANYGFTLA	8	Positive	-	-
+58	H2-Kb	ANYKFTLV	8	Positive	-	-
+59	H2-Kb	ANYNFTLV	8	Positive	-	-
+60	H2-Kb	ANYSFYAL	8	Positive	-	-
+61	H2-Kb	APGNYPAL	8	Positive-Intermediate	277	IC50 nM
+62	H2-Kb	APHFMPTNL	9	Positive	-	-
+63	H2-Kb	APPWYKNL	8	Positive-High	36.8	IC50 nM
+64	H2-Kb	AQYRFIYM	8	Positive	-	-
+65	H2-Kb	AQYSFDKL	8	Positive	-	-
+66	H2-Kb	ARDHSRTPM	9	Positive-Low	2700	KD nM
+67	H2-Kb	ASARFSWL	8	Positive-Intermediate	300	IC50 nM
+68	H2-Kb	ASGVYMGNL	9	Positive-Low	4000	IC50 nM
+69	H2-Kb	ASISEFIAKI	10	Positive-Intermediate	226	IC50 nM
+70	H2-Kb	ASLSTFQQM	9	Positive	-	-
+71	H2-Kb	ASNENMETM	9	Positive	-	-
+72	H2-Kb	ASPMLYQL	8	Positive-Intermediate	170	IC50 nM
+73	H2-Kb	ASSVAFTPL	9	Positive	-	-
+74	H2-Kb	ASTGLFNPM	9	Positive	-	-
+75	H2-Kb	ASYEFTTL	8	Positive	-	-
+76	H2-Kb	ASYITPYV	8	Positive-Intermediate	75.9	IC50 nM
+77	H2-Kb	ATFPFAML	8	Positive	-	-
+78	H2-Kb	ATIQRFSSL	9	Positive-High	1.3	IC50 nM
+79	H2-Kb	ATKLYSPM	8	Positive-High	11.1	IC50 nM
+80	H2-Kb	ATTNAHCALL	10	Positive-Low	2920	IC50 nM
+81	H2-Kb	ATYIFNGL	8	Positive	-	-
+82	H2-Kb	ATYTFSGL	8	Positive	-	-
+83	H2-Kb	AVFTFEQL	8	Positive	-	-
+84	H2-Kb	AVGLFIRL	8	Positive-High	30.7	IC50 nM
+85	H2-Kb	AVIKDATNL	9	Positive-Low	2060	IC50 nM
+86	H2-Kb	AVKLYRKL	8	Positive	-	-
+87	H2-Kb	AVLKYNGI	8	Positive-Intermediate	255	IC50 nM
+88	H2-Kb	AVLVVMACL	9	Positive	-	-
+89	H2-Kb	AVVQFIRV	8	Positive-High	45	IC50 nM
+90	H2-Kb	AVYLSPFKL	9	Positive-Low	721	IC50 nM
+91	H2-Kb	AVYNFATA	8	Positive-High	4.04	IC50 nM
+92	H2-Kb	AVYNFATC	8	Positive-High	1.15	IC50 nM
+93	H2-Kb	AVYNFATCG	9	Positive-Intermediate	350	IC50 nM
+94	H2-Kb	AVYNFATCGI	10	Positive	-	-
+95	H2-Kb	AVYNFATM	8	Positive-High	6.42	IC50 nM
+96	H2-Kb	AVYNLATC	8	Positive-Intermediate	256	IC50 nM
+97	H2-Kb	AVYNLATM	8	Positive-Intermediate	176	IC50 nM
+98	H2-Kb	AVYTFETL	8	Positive	-	-
+99	H2-Kb	CDSTLRLCVQ	10	Positive	-	-
+100	H2-Kb	CFVRSSPASF	10	Positive-Intermediate	86.5	IC50 nM
+101	H2-Kb	CHYDKYPYI	9	Positive-High	16.4	IC50 nM
+102	H2-Kb	CKGVNKEYL	9	Positive	-	-
+103	H2-Kb	CKNFLKQV	8	Positive-Low	3580	IC50 nM
+104	H2-Kb	CKNFLKQVY	9	Positive-Intermediate	107	IC50 nM
+105	H2-Kb	CKNFLKQVYF	10	Positive-Low	760	IC50 nM
+106	H2-Kb	CKNFLKQVYFE	11	Positive-Low	1890	IC50 nM
+107	H2-Kb	CNYSKFWYL	9	Positive-Intermediate	194	IC50 nM
+108	H2-Kb	CNYSKYWYL	9	Positive-High	37.9	IC50 nM
+109	H2-Kb	CNYTKFWYV	9	Positive-Low	506	IC50 nM
+110	H2-Kb	CNYTRFWYI	9	Positive-Intermediate	393	IC50 nM
+111	H2-Kb	CQKPLCPEEK	10	Positive	-	-
+112	H2-Kb	CSFAVAVL	8	Positive-High	33.5	IC50 nM
+113	H2-Kb	CSFRIGRSTEL	11	Positive-Intermediate	116	IC50 nM
+114	H2-Kb	CSHLFKGEI	9	Positive-Intermediate	159	IC50 nM
+115	H2-Kb	CSQTSYQYL	9	Positive-Intermediate	143	IC50 nM
+116	H2-Kb	CSQTSYQYLI	10	Positive-Low	1930	IC50 nM
+117	H2-Kb	CVYCKQQLL	9	Positive-High	-	-
+118	H2-Kb	DDGHFVSI	8	Positive	-	-
+119	H2-Kb	DGAEALGPF	9	Positive-Low	1160	IC50 nM
+120	H2-Kb	DGAEALGPFQ	10	Positive-Low	2150	IC50 nM
+121	H2-Kb	DGAEALGPFQS	11	Positive-Low	1360	IC50 nM
+122	H2-Kb	DGLYNISL	8	Positive-Intermediate	412	IC50 nM
+123	H2-Kb	DHTLMSIVS	9	Positive-Intermediate	99.9	IC50 nM
+124	H2-Kb	DHTLMSIVSS	10	Positive-Low	3270	IC50 nM
+125	H2-Kb	DHTLMSIVSSL	11	Positive-Low	1310	IC50 nM
+126	H2-Kb	DKIRYQSL	8	Positive	-	-
+127	H2-Kb	DLANSHQRS	9	Positive-Low	4840	IC50 nM
+128	H2-Kb	DLLFKLLEY	9	Positive-Low	1010	IC50 nM
+129	H2-Kb	DLLFKLLEYS	10	Positive-Low	2750	IC50 nM
+130	H2-Kb	DLLKYAGL	8	Positive-Intermediate	79.5	IC50 nM
+131	H2-Kb	DLYCYEQL	8	Positive	-	-
+132	H2-Kb	DLYCYEQLND	10	Positive	-	-
+133	H2-Kb	DLYTSMRL	8	Positive-Intermediate	153	IC50 nM
+134	H2-Kb	DNRQYSFV	8	Positive	-	-
+135	H2-Kb	DNYCFPENL	9	Positive	-	-
+136	H2-Kb	DNYRFTCVL	9	Positive-High	17.5	IC50 nM
+137	H2-Kb	DQVHFQPL	8	Positive	-	-
+138	H2-Kb	DRAHYNIV	8	Positive	-	-
+139	H2-Kb	DRLFFKCI	8	Positive	-	-
+140	H2-Kb	DRSPYRAL	8	Positive	-	-
+141	H2-Kb	DSIYQYVRL	9	Positive-High	1.47	IC50 nM
+142	H2-Kb	DSVVYDFL	8	Positive	-	-
+143	H2-Kb	DVPNFKDKM	9	Positive-Intermediate	260	IC50 nM
+144	H2-Kb	DYHLNQPFL	9	Positive	-	-
+145	H2-Kb	EALGPFQSFVS	11	Positive-Low	2930	IC50 nM
+146	H2-Kb	ECFVRSSP	8	Positive-Intermediate	358	IC50 nM
+147	H2-Kb	ECFVRSSPA	9	Positive-Low	2590	IC50 nM
+148	H2-Kb	EDWDYAPL	8	Positive-Intermediate	-	-
+149	H2-Kb	EGIVFVHL	8	Positive	-	-
+150	H2-Kb	EGIVFVRL	8	Positive	-	-
+151	H2-Kb	EIAAFSKL	8	Positive	-	-
+152	H2-Kb	EIFHYGFL	8	Positive-Intermediate	400	IC50 nM
+153	H2-Kb	EIINFEKL	8	Positive	2.2	Angstroms
+154	H2-Kb	EIMRMCHEGIN	11	Positive-Low	2490	IC50 nM
+155	H2-Kb	EKEANALYLWV	11	Positive	-	-
+156	H2-Kb	EKLTEWTSSN	10	Positive-Low	-	-
+157	H2-Kb	ENIFYCPI	8	Positive-Intermediate	483	IC50 nM
+158	H2-Kb	ENYRFHAI	8	Positive-Intermediate	-	-
+159	H2-Kb	EQYKFYSV	8	Positive	1.75	Angstroms
+160	H2-Kb	ERPRKLPQL	9	Positive-Low	-	-
+161	H2-Kb	ERYPNVTI	8	Positive	-	-
+162	H2-Kb	ESEDFSSL	8	Positive	-	-
+163	H2-Kb	ESPDFSKI	8	Positive	-	-
+164	H2-Kb	ESYKVIGM	8	Positive-Intermediate	361	IC50 nM
+165	H2-Kb	EVVEIFKHL	9	Positive-Low	1937	IC50 nM
+166	H2-Kb	EVYDFAFR	8	Positive	28000	IC50 nM
+167	H2-Kb	EVYDFAFRD	9	Positive	38000	IC50 nM
+168	H2-Kb	EVYDFAFRDL	10	Positive-High	100	IC50 nM
+169	H2-Kb	EVYDFAFRDLA	11	Positive	8000	IC50 nM
+170	H2-Kb	EWANFKFRDL	10	Positive-Intermediate	106	IC50 nM
+171	H2-Kb	EWANFKFRDLL	11	Positive-Intermediate	69	IC50 nM
+172	H2-Kb	EYRHYCYSL	9	Positive-Low	-	-
+173	H2-Kb	FAAEFKSRF	9	Positive-High	24.7	IC50 nM
+174	H2-Kb	FAFGYMNL	8	Positive-High	1.87	IC50 nM
+175	H2-Kb	FAFKDCRL	8	Positive-Intermediate	390	IC50 nM
+176	H2-Kb	FAFLYLLV	8	Positive-High	2.68	IC50 nM
+177	H2-Kb	FAFRDLCIV	9	Positive-Low	-	-
+178	H2-Kb	FALISFLLL	9	Positive-Low	619	IC50 nM
+179	H2-Kb	FALSYKEQV	9	Positive-High	23.4	IC50 nM
+180	H2-Kb	FAPGNYPAL	9	Positive	2.5	Angstroms
+181	H2-Kb	FAPLFTNL	8	Positive	0.5	IC50 nM
+182	H2-Kb	FAQNYSLL	8	Positive	-	-
+183	H2-Kb	FARGNYPAL	9	Positive	-	-
+184	H2-Kb	FDHTLMSIV	9	Positive-Intermediate	160	IC50 nM
+185	H2-Kb	FDHTLMSIVS	10	Positive-Intermediate	92.4	IC50 nM
+186	H2-Kb	FEDQLLPFM	9	Positive-Low	3010	IC50 nM
+187	H2-Kb	FEDQLLPFMS	10	Positive-Low	1760	IC50 nM
+188	H2-Kb	FELRFKQYL	9	Positive	-	-
+189	H2-Kb	FFIKLPII	8	Positive-Intermediate	280	IC50 nM
+190	H2-Kb	FFYRYGFV	8	Positive-Intermediate	157	IC50 nM
+191	H2-Kb	FGFAFGYM	8	Positive-High	1.08	IC50 nM
+192	H2-Kb	FGGITYTDV	9	Positive	-	-
+193	H2-Kb	FHYYMSDQL	9	Positive-Intermediate	250	IC50 nM
+194	H2-Kb	FIIFLFIL	8	Positive-Low	5000	IC50 nM
+195	H2-Kb	FIYTYDRV	8	Positive-High	12.9	IC50 nM
+196	H2-Kb	FKFRDLLF	8	Positive-Low	2370	IC50 nM
+197	H2-Kb	FKFRDLLFK	9	Positive-Low	2860	IC50 nM
+198	H2-Kb	FKFRDLLFKLL	11	Positive-Low	4440	IC50 nM
+199	H2-Kb	FKSVEFDMS	9	Positive-Low	1440	IC50 nM
+200	H2-Kb	FKSVEFDMSHL	11	Positive-Intermediate	301	IC50 nM
+201	H2-Kb	FLKQVYFE	8	Positive-Low	2210	IC50 nM
+202	H2-Kb	FLKQVYFES	9	Positive-Intermediate	123	IC50 nM
+203	H2-Kb	FLKQVYFESF	10	Positive-Low	4250	IC50 nM
+204	H2-Kb	FLLTFPDYL	9	Positive	-	-
+205	H2-Kb	FLPDLLPNL	9	Positive	-	-
+206	H2-Kb	FMLNVSYL	8	Positive-High	14.5	IC50 nM
+207	H2-Kb	FMPEWANF	8	Positive-Low	4400	IC50 nM
+208	H2-Kb	FMPEWANFK	9	Positive-Low	2250	IC50 nM
+209	H2-Kb	FMPEWANFKF	10	Positive-Intermediate	118	IC50 nM
+210	H2-Kb	FMPEWANFKFR	11	Positive-Low	518	IC50 nM
+211	H2-Kb	FMPHFFKL	8	Positive	-	-
+212	H2-Kb	FNKKTFDHTLM	11	Positive-Low	1360	IC50 nM
+213	H2-Kb	FNPSVLKIL	9	Positive-Low	2578	IC50 nM
+214	H2-Kb	FNRDKTEAI	9	Positive-Low	807	IC50 nM
+215	H2-Kb	FQFIFFLL	8	Positive-High	3.64	IC50 nM
+216	H2-Kb	FQFIFFLLL	9	Positive-Intermediate	219	IC50 nM
+217	H2-Kb	FQPQNGQFI	9	Positive-Low	4240	IC50 nM
+218	H2-Kb	FQQEFPSL	8	Positive	-	-
+219	H2-Kb	FRDLLFKL	8	Positive-Low	2560	IC50 nM
+220	H2-Kb	FRDLLFKLL	9	Positive-Low	3320	IC50 nM
+221	H2-Kb	FSCMKMILL	9	Positive-Low	1600	IC50 nM
+222	H2-Kb	FSELYENL	8	Positive-Intermediate	371	IC50 nM
+223	H2-Kb	FSFLMENYL	9	Positive-Low	510	IC50 nM
+224	H2-Kb	FSPDLFPNL	9	Positive	-	-
+225	H2-Kb	FSPDLLPSL	9	Positive	-	-
+226	H2-Kb	FSRRFKYL	8	Positive-High	29.7	IC50 nM
+227	H2-Kb	FSVIFDRL	8	Positive	312.8	EC50 nM
+228	H2-Kb	FSWFPHKEM	9	Positive-Intermediate	462	IC50 nM
+229	H2-Kb	FSYRMGDV	8	Positive-High	27.1	IC50 nM
+230	H2-Kb	FTRRFKFL	8	Positive-Intermediate	70.6	IC50 nM
+231	H2-Kb	FTSAALRNL	9	Positive-Low	4600	IC50 nM
+232	H2-Kb	FTTTLFLHL	9	Positive-Low	925	IC50 nM
+233	H2-Kb	FVQWFVGL	8	Positive-Intermediate	150	IC50 nM
+234	H2-Kb	FVRSSPASF	9	Positive-Low	4460	IC50 nM
+235	H2-Kb	FVRSSPASFE	10	Positive-Low	3050	IC50 nM
+236	H2-Kb	FVYLFHFM	8	Positive-High	16	IC50 nM
+237	H2-Kb	FVYVPSAL	8	Positive-Intermediate	275	IC50 nM
+238	H2-Kb	FWFKNTQFDI	10	Positive-Intermediate	116	IC50 nM
+239	H2-Kb	GAEALGPFQS	10	Positive-Low	1590	IC50 nM
+240	H2-Kb	GAEALGPFQSF	11	Positive-Low	2870	IC50 nM
+241	H2-Kb	GAINFINL	8	Positive	6.2	IC50 nM
+242	H2-Kb	GAWTGRCM	8	Positive	-	-
+243	H2-Kb	GAYSFYAL	8	Positive	-	-
+244	H2-Kb	GCVAYIGI	8	Positive	-	-
+245	H2-Kb	GDYVFDRI	8	Positive-High	-	-
+246	H2-Kb	GGGGFGKL	8	Positive-Low	-	-
+247	H2-Kb	GGITYTDV	8	Positive	-	-
+248	H2-Kb	GGLPFSLL	8	Positive	-	-
+249	H2-Kb	GGPIYRRV	8	Positive-Intermediate	311	IC50 nM
+250	H2-Kb	GGYKFGKL	8	Positive	-	-
+251	H2-Kb	GHRGYPGL	8	Positive	-	-
+252	H2-Kb	GIDPFRLL	8	Positive	-	-
+253	H2-Kb	GIFCFRIL	8	Positive-High	16.6	IC50 nM
+254	H2-Kb	GIPLYDAI	8	Positive	-	-
+255	H2-Kb	GITIQYNL	8	Positive-Low	4050	IC50 nM
+256	H2-Kb	GKAVFTEI	8	Positive	-	-
+257	H2-Kb	GLFQFFVFL	9	Positive-Low	1030	IC50 nM
+258	H2-Kb	GLLSDHKSN	9	Positive	-	-
+259	H2-Kb	GMLQGRGPL	9	Positive-Low	1336	IC50 nM
+260	H2-Kb	GNAEFEDL	8	Positive	-	-
+261	H2-Kb	GNASFYAL	8	Positive-Low	-	-
+262	H2-Kb	GNYAFYAL	8	Positive	-	-
+263	H2-Kb	GNYSFAAL	8	Positive	-	-
+264	H2-Kb	GNYSFYAL	8	Positive	1.35	Angstroms
+265	H2-Kb	GPDIYKGVY	9	Positive-High	26.2	IC50 nM
+266	H2-Kb	GPDIYKGVYQ	10	Positive-Low	1390	IC50 nM
+267	H2-Kb	GPFQSFVS	8	Positive-High	45.7	IC50 nM
+268	H2-Kb	GQYEFHSL	8	Positive-Intermediate	-	-
+269	H2-Kb	GRWTGACM	8	Positive	-	-
+270	H2-Kb	GRWTGRCM	8	Positive	-	-
+271	H2-Kb	GSYLNETHF	9	Positive-Intermediate	466	IC50 nM
+272	H2-Kb	GTIVFSLM	8	Positive	-	-
+273	H2-Kb	GTYDYPKY	8	Positive	-	-
+274	H2-Kb	GVLLFLSV	8	Positive	-	-
+275	H2-Kb	GVPLEYVPL	9	Positive	-	-
+276	H2-Kb	GVYINTAL	8	Positive	-	-
+277	H2-Kb	GVYQFKSV	8	Positive-High	10	IC50 nM
+278	H2-Kb	GVYSDYPPL	9	Positive-High	5.68	IC50 nM
+279	H2-Kb	GYCLTKWMI	9	Positive-Intermediate	427	IC50 nM
+280	H2-Kb	GYEEFTMV	8	Positive	-	-
+281	H2-Kb	GYNFSLGAAV	10	Positive-Intermediate	239	IC50 nM
+282	H2-Kb	GYNFSLGAAVK	11	Positive-Low	4060	IC50 nM
+283	H2-Kb	GYVKYQGL	8	Positive	-	-
+284	H2-Kb	HAVEFHNL	8	Positive-High	22.2	IC50 nM
+285	H2-Kb	HILLYQML	8	Positive-High	45	IC50 nM
+286	H2-Kb	HMWNFISGI	9	Positive-Intermediate	424	IC50 nM
+287	H2-Kb	HNDEIMRMCH	10	Positive-Intermediate	318	IC50 nM
+288	H2-Kb	HNILPHDLI	9	Positive-Intermediate	111	IC50 nM
+289	H2-Kb	HNTQYCNL	8	Positive	-	-
+290	H2-Kb	HQRSDSSLV	9	Positive-Low	3680	IC50 nM
+291	H2-Kb	HSAAFEDL	8	Positive	-	-
+292	H2-Kb	HSLKVTLL	8	Positive	-	-
+293	H2-Kb	HSLLYQSHL	9	Positive-Intermediate	237	IC50 nM
+294	H2-Kb	HTLMSIVSS	9	Positive-Intermediate	305	IC50 nM
+295	H2-Kb	HTLMSIVSSL	10	Positive-Low	2300	IC50 nM
+296	H2-Kb	HYNIVTFCC	9	Positive-Low	-	-
+297	H2-Kb	IAALNPGVNL	10	Positive	-	-
+298	H2-Kb	IAGLNVLRI	9	Positive	-	-
+299	H2-Kb	IAINRYNGL	9	Positive-High	-	-
+300	H2-Kb	IALIAVSL	8	Positive-Intermediate	51.7	IC50 nM
+301	H2-Kb	IALTFLAV	8	Positive	-	-
+302	H2-Kb	IAVQFVDM	8	Positive	-	-
+303	H2-Kb	IAVSFREL	8	Positive	-	-
+304	H2-Kb	IAVSIISIL	9	Positive-Low	1890	IC50 nM
+305	H2-Kb	IAVSLIAAL	9	Positive-High	13.4	IC50 nM
+306	H2-Kb	IAYEFVEM	8	Positive	-	-
+307	H2-Kb	ICISLSNSF	9	Positive-Low	2550	IC50 nM
+308	H2-Kb	IFEDQLLPFM	10	Positive-Intermediate	425	IC50 nM
+309	H2-Kb	IFFEETNGM	9	Positive-Intermediate	471	IC50 nM
+310	H2-Kb	IFGAFPSL	8	Positive-Intermediate	82.4	IC50 nM
+311	H2-Kb	IFLVRCQL	8	Positive-High	28.3	IC50 nM
+312	H2-Kb	IFRQYFEM	8	Positive-Low	953	IC50 nM
+313	H2-Kb	IFYCPIAI	8	Positive-Intermediate	87.5	IC50 nM
+314	H2-Kb	IGGIRMVDI	9	Positive-Intermediate	199	IC50 nM
+315	H2-Kb	IGMFNLTFI	9	Positive-Low	3141	IC50 nM
+316	H2-Kb	IGPTYYQRL	9	Positive	-	-
+317	H2-Kb	IGRFYIQM	8	Positive	358.3	EC50 nM
+318	H2-Kb	IGYICSGV	8	Positive-Intermediate	286	IC50 nM
+319	H2-Kb	IGYMVKNV	8	Positive-High	4.16	IC50 nM
+320	H2-Kb	IHFSFPFV	8	Positive-High	1.08	IC50 nM
+321	H2-Kb	IHLQLYSL	8	Positive-High	24	IC50 nM
+322	H2-Kb	IHSAFSSL	8	Positive-Low	-	-
+323	H2-Kb	IHYLFRCV	8	Positive-High	6.92	IC50 nM
+324	H2-Kb	IIARYIRL	8	Positive-High	-	-
+325	H2-Kb	IIFESASK	8	Positive-Low	4310	IC50 nM
+326	H2-Kb	IIIPFIAYFV	10	Positive-Intermediate	105	IC50 nM
+327	H2-Kb	IILGFRKI	8	Positive-High	21.5	IC50 nM
+328	H2-Kb	IINHKFCNL	9	Positive-Intermediate	76.5	IC50 nM
+329	H2-Kb	IIPDGYKL	8	Positive-Low	1450	IC50 nM
+330	H2-Kb	IIPDGYKLI	9	Positive-Low	544	IC50 nM
+331	H2-Kb	IISELREL	8	Positive-Intermediate	123	IC50 nM
+332	H2-Kb	IISFFSPL	8	Positive	-	-
+333	H2-Kb	IISHNFCNL	9	Positive-Intermediate	176	IC50 nM
+334	H2-Kb	IIVAPYIAL	9	Positive-High	36.5	IC50 nM
+335	H2-Kb	IIYSGAVNL	9	Positive-Intermediate	67.8	IC50 nM
+336	H2-Kb	IIYSHKNNL	9	Positive-High	4.37	IC50 nM
+337	H2-Kb	ILAIYSTV	8	Positive	-	-
+338	H2-Kb	ILENFPRL	8	Positive	-	-
+339	H2-Kb	ILLIPLSL	8	Positive-High	34.8	IC50 nM
+340	H2-Kb	ILLIPLSLL	9	Positive-Low	1360	IC50 nM
+341	H2-Kb	ILMIFISSFL	10	Positive-Intermediate	123	IC50 nM
+342	H2-Kb	ILQLFVFL	8	Positive-Low	538	IC50 nM
+343	H2-Kb	ILSNYETL	8	Positive-Intermediate	423	IC50 nM
+344	H2-Kb	ILSPFLPL	8	Positive-Intermediate	469	IC50 nM
+345	H2-Kb	ILSPFLPLL	9	Positive	-	-
+346	H2-Kb	ILWDYFSL	8	Positive-Intermediate	246	IC50 nM
+347	H2-Kb	ILWDYFTL	8	Positive-Intermediate	268	IC50 nM
+348	H2-Kb	IMIKFNRL	8	Positive	-	-
+349	H2-Kb	IMRMCHEGI	9	Positive-High	19.7	IC50 nM
+350	H2-Kb	IMRNLTNL	8	Positive-High	13.5	IC50 nM
+351	H2-Kb	IMTSYQYL	8	Positive-High	42.2	IC50 nM
+352	H2-Kb	IMYGPIKSM	9	Positive-High	30.9	IC50 nM
+353	H2-Kb	INDDKYEYL	9	Positive-Intermediate	222	IC50 nM
+354	H2-Kb	INFDFNTI	8	Positive	2.3	Angstroms
+355	H2-Kb	INFEFVCL	8	Positive-High	7.55	IC50 nM
+356	H2-Kb	INFEKLTEWT	10	Positive-Low	-	-
+357	H2-Kb	INFVFNTI	8	Positive	-	-
+358	H2-Kb	INFYFNTI	8	Positive	-	-
+359	H2-Kb	INHKFCNL	8	Positive-High	8.26	IC50 nM
+360	H2-Kb	INISGYNF	8	Positive-Intermediate	367	IC50 nM
+361	H2-Kb	INISGYNL	8	Positive-Low	886	IC50 nM
+362	H2-Kb	INLWKSGLF	9	Positive-Intermediate	58.8	IC50 nM
+363	H2-Kb	INLYKSGLF	9	Positive-Intermediate	74.7	IC50 nM
+364	H2-Kb	INNTFLHL	8	Positive	2	IC50 nM
+365	H2-Kb	INPNMSCDDV	10	Positive-Low	656	IC50 nM
+366	H2-Kb	INSLFSRF	8	Positive-Intermediate	166	IC50 nM
+367	H2-Kb	INTDFAFSL	9	Positive-Intermediate	-	-
+368	H2-Kb	INVEYRFL	8	Positive-High	2.39	IC50 nM
+369	H2-Kb	INYCIGVIF	9	Positive-Intermediate	85.8	IC50 nM
+370	H2-Kb	INYEYAIV	8	Positive	-	-
+371	H2-Kb	INYLVPFL	8	Positive	-	-
+372	H2-Kb	IPLKYIVL	8	Positive-Intermediate	490	IC50 nM
+373	H2-Kb	IQRRTLDLLK	10	Positive-Low	721	IC50 nM
+374	H2-Kb	IQVVFYISM	9	Positive-Low	-	-
+375	H2-Kb	IQYDKHCYL	9	Positive-High	1.83	IC50 nM
+376	H2-Kb	IQYWQVPL	8	Positive-High	45.3	IC50 nM
+377	H2-Kb	IRTLEDLLMG	10	Positive	-	-
+378	H2-Kb	ISDRYCTL	8	Positive	-	-
+379	H2-Kb	ISDVLGNL	8	Positive-High	25	IC50 nM
+380	H2-Kb	ISDVLGNLF	9	Positive-Low	790	IC50 nM
+381	H2-Kb	ISFHLVEDF	9	Positive-Low	3680	IC50 nM
+382	H2-Kb	ISFKFDHL	8	Positive	-	-
+383	H2-Kb	ISGYNFSL	8	Positive-High	32.2	IC50 nM
+384	H2-Kb	ISGYNFSLG	9	Positive-High	14.8	IC50 nM
+385	H2-Kb	ISGYNFSLGA	10	Positive-Intermediate	100	IC50 nM
+386	H2-Kb	ISGYNFSLGAA	11	Positive-Intermediate	100	IC50 nM
+387	H2-Kb	ISGYNYSL	8	Positive-Low	711	IC50 nM
+388	H2-Kb	ISHNFCNL	8	Positive-Intermediate	371	IC50 nM
+389	H2-Kb	ISHNFCNLT	9	Positive-High	27.9	IC50 nM
+390	H2-Kb	ISLKNYGI	8	Positive-High	16	IC50 nM
+391	H2-Kb	ISLTYKPS	8	Positive-Intermediate	239	IC50 nM
+392	H2-Kb	ISMGTSGL	8	Positive-Low	1100	IC50 nM
+393	H2-Kb	ISPDYTQHM	9	Positive-High	-	-
+394	H2-Kb	ISPKSVAGRF	10	Positive-Low	1760	IC50 nM
+395	H2-Kb	ISPLMVAYM	9	Positive-High	3.36	IC50 nM
+396	H2-Kb	ISPNVGNL	8	Positive-Intermediate	72.5	IC50 nM
+397	H2-Kb	ISSFYWSL	8	Positive-High	16.6	IC50 nM
+398	H2-Kb	ISSGFIGL	8	Positive-High	29	IC50 nM
+399	H2-Kb	ISSLFGQRI	9	Positive	-	-
+400	H2-Kb	ISSNTGNL	8	Positive-Low	3190	IC50 nM
+401	H2-Kb	ISTNSAKL	8	Positive-Low	973	IC50 nM
+402	H2-Kb	ISVANKIYM	9	Positive-High	33.7	IC50 nM
+403	H2-Kb	ISVILQEL	8	Positive-High	47.5	IC50 nM
+404	H2-Kb	ISVPIRLL	8	Positive	-	-
+405	H2-Kb	ISVQYNLS	8	Positive-Low	529	IC50 nM
+406	H2-Kb	ISYEPSTL	8	Positive	-	-
+407	H2-Kb	ISYQFSNL	8	Positive	-	-
+408	H2-Kb	ITCKPINL	8	Positive-Low	675	IC50 nM
+409	H2-Kb	ITEQFLNYV	9	Positive-Low	2620	IC50 nM
+410	H2-Kb	ITFALKKL	8	Positive-Intermediate	312	IC50 nM
+411	H2-Kb	ITIQYNLT	8	Positive-Intermediate	352	IC50 nM
+412	H2-Kb	ITIQYNLTF	9	Positive-High	6.06	IC50 nM
+413	H2-Kb	ITLFDRRL	8	Positive-Intermediate	133	IC50 nM
+414	H2-Kb	ITLIKTPSL	9	Positive-Low	588	IC50 nM
+415	H2-Kb	ITNNIIGLL	9	Positive-Low	998	IC50 nM
+416	H2-Kb	ITPHCALM	8	Positive-Intermediate	357	IC50 nM
+417	H2-Kb	ITSMWPLL	8	Positive-Intermediate	102	IC50 nM
+418	H2-Kb	ITTFKLPTM	9	Positive-Low	1010	IC50 nM
+419	H2-Kb	ITYNYQLF	8	Positive-High	0.931	IC50 nM
+420	H2-Kb	ITYRFYLI	8	Positive-High	6.24	IC50 nM
+421	H2-Kb	ITYSSSMM	8	Positive-Intermediate	400	IC50 nM
+422	H2-Kb	ITYTYDLM	8	Positive	-	-
+423	H2-Kb	IVIFVKRL	8	Positive-Intermediate	460	IC50 nM
+424	H2-Kb	IVITGIKAV	9	Positive-High	23.5	IC50 nM
+425	H2-Kb	IVLIVITGI	9	Positive-Low	1470	IC50 nM
+426	H2-Kb	IVPLFTNL	8	Positive	-	-
+427	H2-Kb	IVPSHISSL	9	Positive-Low	706	IC50 nM
+428	H2-Kb	IVSPFIPL	8	Positive-Low	773	IC50 nM
+429	H2-Kb	IVTFCCKCD	9	Positive-Low	-	-
+430	H2-Kb	IVTMFEAL	8	Positive-Intermediate	67	IC50 nM
+431	H2-Kb	IVYKDCAKL	9	Positive-Intermediate	91.8	IC50 nM
+432	H2-Kb	IYIFTVRL	8	Positive-High	13.4	IC50 nM
+433	H2-Kb	IYVGNGQMI	9	Positive-Intermediate	181	IC50 nM
+434	H2-Kb	KAAYNFATCGI	11	Positive-High	49	IC50 nM
+435	H2-Kb	KAAYNFATM	9	Positive-High	20	IC50 nM
+436	H2-Kb	KADSTLRLC	9	Positive-Low	-	-
+437	H2-Kb	KAFTYINL	8	Positive	-	-
+438	H2-Kb	KAGYNFATM	9	Positive	-	-
+439	H2-Kb	KALGFPESL	9	Positive-Low	-	-
+440	H2-Kb	KALYNFATM	9	Positive	1.99	Angstroms
+441	H2-Kb	KAVANFATCGI	11	Positive	-	-
+442	H2-Kb	KAVFNFATM	9	Positive	-	-
+443	H2-Kb	KAVGNFATM	9	Positive	-	-
+444	H2-Kb	KAVYAFATCGI	11	Positive	-	-
+445	H2-Kb	KAVYNFAACGI	11	Positive	-	-
+446	H2-Kb	KAVYNFAT	8	Positive	-	-
+447	H2-Kb	KAVYNFATA	9	Positive-Intermediate	409	IC50 nM
+448	H2-Kb	KAVYNFATAGI	11	Positive	-	-
+449	H2-Kb	KAVYNFATC	9	Positive-Intermediate	183	IC50 nM
+450	H2-Kb	KAVYNFATCAI	11	Positive	-	-
+451	H2-Kb	KAVYNFATCG	10	Positive	-	-
+452	H2-Kb	KAVYNFATCGA	11	Positive	-	-
+453	H2-Kb	KAVYNFATCGI	11	Positive	214	EC50 nM
+454	H2-Kb	KAVYNFATM	9	Positive	2.9	Angstroms
+455	H2-Kb	KAVYNFGTCGI	11	Positive	-	-
+456	H2-Kb	KAVYNLATM	9	Positive	2.95	Angstroms
+457	H2-Kb	KCLKFYSKI	9	Positive-High	-	-
+458	H2-Kb	KDIFFSSL	8	Positive	-	-
+459	H2-Kb	KEGPFGTL	8	Positive	-	-
+460	H2-Kb	KEGSYPKL	8	Positive	-	-
+461	H2-Kb	KENRFIEI	8	Positive	-	-
+462	H2-Kb	KEPHQLCETI	10	Positive-Low	4090	IC50 nM
+463	H2-Kb	KFFEPKSQF	9	Positive-Low	3550	IC50 nM
+464	H2-Kb	KFMLNVSYL	9	Positive-Low	694	IC50 nM
+465	H2-Kb	KFRDLLFK	8	Positive-Low	804	IC50 nM
+466	H2-Kb	KFRDLLFKL	9	Positive-Low	963	IC50 nM
+467	H2-Kb	KFRDLLFKLL	10	Positive-Low	3130	IC50 nM
+468	H2-Kb	KFRDLLFKLLE	11	Positive-Low	1910	IC50 nM
+469	H2-Kb	KGLHHLQL	8	Positive-Low	1410	IC50 nM
+470	H2-Kb	KGLHHLQLI	9	Positive-High	43.2	IC50 nM
+471	H2-Kb	KGPQYEEDV	9	Positive	-	-
+472	H2-Kb	KGVYNFATCGI	11	Positive	-	-
+473	H2-Kb	KGYMFESK	8	Positive	-	-
+474	H2-Kb	KIFEDQLLPFM	11	Positive-Low	1820	IC50 nM
+475	H2-Kb	KIIQKSSSI	9	Positive-Intermediate	433	IC50 nM
+476	H2-Kb	KIITYRNL	8	Positive	-	-
+477	H2-Kb	KILLFSGL	8	Positive-High	3.19	IC50 nM
+478	H2-Kb	KIPTHRHI	8	Positive-Low	2530	IC50 nM
+479	H2-Kb	KISPLMVAYM	10	Positive	-	-
+480	H2-Kb	KKLNSLDPM	9	Positive-Low	4050	IC50 nM
+481	H2-Kb	KKTFDHTL	8	Positive-Intermediate	62.8	IC50 nM
+482	H2-Kb	KKTFDHTLM	9	Positive-Low	3680	IC50 nM
+483	H2-Kb	KKTFDHTLMS	10	Positive-Low	1700	IC50 nM
+484	H2-Kb	KLLEYSNQ	8	Positive-Low	1990	IC50 nM
+485	H2-Kb	KLLWFLTGT	9	Positive-Intermediate	243	IC50 nM
+486	H2-Kb	KMFLYKIL	8	Positive-Intermediate	218	IC50 nM
+487	H2-Kb	KMITQRTI	8	Positive-Intermediate	140	IC50 nM
+488	H2-Kb	KNFLKQVYF	9	Positive-High	2.59	IC50 nM
+489	H2-Kb	KNFLKQVYFE	10	Positive-Low	1010	IC50 nM
+490	H2-Kb	KNFLKQVYFES	11	Positive-High	14.5	IC50 nM
+491	H2-Kb	KNIQSLRRL	9	Positive-Low	512	IC50 nM
+492	H2-Kb	KNIRFPLM	8	Positive	-	-
+493	H2-Kb	KNKFFSYL	8	Positive-High	25.9	IC50 nM
+494	H2-Kb	KNMEYDAV	8	Positive	113.3	EC50 nM
+495	H2-Kb	KNMRWSPRI	9	Positive-Intermediate	95.6	IC50 nM
+496	H2-Kb	KNVLKVGRL	9	Positive-Intermediate	78.2	IC50 nM
+497	H2-Kb	KNYPFSSI	8	Positive	-	-
+498	H2-Kb	KQQLLRREV	9	Positive-Low	-	-
+499	H2-Kb	KSFFAWSL	8	Positive-Intermediate	142	IC50 nM
+500	H2-Kb	KSFFWFNEV	9	Positive-High	16	IC50 nM
+501	H2-Kb	KSFLWTQSL	9	Positive-High	13.7	IC50 nM
+502	H2-Kb	KSFQWTQA	8	Positive-Low	2000	IC50 nM
+503	H2-Kb	KSFQWTQAL	9	Positive-High	9	IC50 nM
+504	H2-Kb	KSILFAPEL	9	Positive	-	-
+505	H2-Kb	KSITFSKL	8	Positive	-	-
+506	H2-Kb	KSKVFRKV	8	Positive-Low	2590	IC50 nM
+507	H2-Kb	KSLTYYKL	8	Positive-High	11	IC50 nM
+508	H2-Kb	KSPIYYFL	8	Positive-High	0.702	IC50 nM
+509	H2-Kb	KSPWFTTL	8	Positive	78	t1/2 (min)
+510	H2-Kb	KSSFYRNL	8	Positive-Intermediate	86	IC50 nM
+511	H2-Kb	KSVAGRFAA	9	Positive-Low	501	IC50 nM
+512	H2-Kb	KSVEFDMSHL	10	Positive-High	44	IC50 nM
+513	H2-Kb	KSVPLEML	8	Positive-Low	1820	IC50 nM
+514	H2-Kb	KSYNYMLL	8	Positive-High	2.66	IC50 nM
+515	H2-Kb	KSYVKSKL	8	Positive-Low	1220	IC50 nM
+516	H2-Kb	KTFDHTLM	8	Positive-High	38.2	IC50 nM
+517	H2-Kb	KTFDHTLMSI	10	Positive-High	2.37	IC50 nM
+518	H2-Kb	KTFDHTLMSIV	11	Positive-Intermediate	405	IC50 nM
+519	H2-Kb	KTFFWFNEV	9	Positive-Intermediate	104	IC50 nM
+520	H2-Kb	KTKFFTRRL	9	Positive-Low	1143	IC50 nM
+521	H2-Kb	KTLPFPML	8	Positive	-	-
+522	H2-Kb	KTLVLVPL	8	Positive	-	-
+523	H2-Kb	KTPSFPNI	8	Positive-Intermediate	127	IC50 nM
+524	H2-Kb	KTSSVARL	8	Positive-Low	2660	IC50 nM
+525	H2-Kb	KVEEYCTGL	9	Positive-Intermediate	129	IC50 nM
+526	H2-Kb	KVFGRCEL	8	Positive-Intermediate	400	IC50 nM
+527	H2-Kb	KVFSFWLL	8	Positive-Intermediate	95.9	IC50 nM
+528	H2-Kb	KVGKFYEL	8	Positive-Low	-	-
+529	H2-Kb	KVITFIDL	8	Positive	2.3	Angstroms
+530	H2-Kb	KVLHFYNV	8	Positive	-	-
+531	H2-Kb	KVLQEYKKM	9	Positive-Intermediate	290	IC50 nM
+532	H2-Kb	KVVKFSYM	8	Positive	-	-
+533	H2-Kb	KVVRFDKL	8	Positive-High	49	IC50 nM
+534	H2-Kb	KVVRVDKL	8	Positive-Intermediate	225	IC50 nM
+535	H2-Kb	KVVYKLLRF	9	Positive-Intermediate	415	IC50 nM
+536	H2-Kb	KVWDKYGWL	9	Positive-Low	505	IC50 nM
+537	H2-Kb	KWEKYCVL	8	Positive	-	-
+538	H2-Kb	KYVEYGSL	8	Positive-Intermediate	90	IC50 nM
+539	H2-Kb	LANSHQRSD	9	Positive-Low	3750	IC50 nM
+540	H2-Kb	LAVLFINSI	9	Positive-High	28	IC50 nM
+541	H2-Kb	LAVLYCLL	8	Positive-High	32.6	IC50 nM
+542	H2-Kb	LAYQKDALL	9	Positive-Intermediate	210	IC50 nM
+543	H2-Kb	LCIDRSILL	9	Positive-Low	1080	IC50 nM
+544	H2-Kb	LCLTYSYL	8	Positive-Low	-	-
+545	H2-Kb	LCTELQTTI	9	Positive-Low	-	-
+546	H2-Kb	LCVQSTHVD	9	Positive-Low	-	-
+547	H2-Kb	LECFVRSSP	9	Positive-Low	4600	IC50 nM
+548	H2-Kb	LEWIFRAL	8	Positive-Intermediate	93.4	IC50 nM
+549	H2-Kb	LEYDFNKL	8	Positive-Intermediate	75.4	IC50 nM
+550	H2-Kb	LEYDFNKLL	9	Positive-Intermediate	476	IC50 nM
+551	H2-Kb	LFFSRRFKYL	10	Positive-Low	3320	IC50 nM
+552	H2-Kb	LFLMFLQNL	9	Positive-High	8.93	IC50 nM
+553	H2-Kb	LFPEFSEL	8	Positive	-	-
+554	H2-Kb	LGFQERNVL	9	Positive	-	-
+555	H2-Kb	LGGLYEAI	8	Positive	-	-
+556	H2-Kb	LGIFCFRIL	9	Positive-High	26.7	IC50 nM
+557	H2-Kb	LGITYDGM	8	Positive	-	-
+558	H2-Kb	LGNLFLHRF	9	Positive-Intermediate	386	IC50 nM
+559	H2-Kb	LGPFQSFV	8	Positive-Low	1270	IC50 nM
+560	H2-Kb	LGPFQSFVS	9	Positive-Low	1310	IC50 nM
+561	H2-Kb	LGQKFEEI	8	Positive	-	-
+562	H2-Kb	LGYAYINS	8	Positive	10	IC50 nM
+563	H2-Kb	LGYDYSYL	8	Positive-High	1.54	IC50 nM
+564	H2-Kb	LGYIIRYPV	9	Positive-Intermediate	221	IC50 nM
+565	H2-Kb	LIFLVRCQL	9	Positive-Low	503	IC50 nM
+566	H2-Kb	LIFRGPNV	8	Positive-Intermediate	61	IC50 nM
+567	H2-Kb	LIFSYAFL	8	Positive-High	0.548	IC50 nM
+568	H2-Kb	LIKEFSEL	8	Positive-Low	805	IC50 nM
+569	H2-Kb	LILLECFV	8	Positive-Low	4410	IC50 nM
+570	H2-Kb	LILLECFVRSS	11	Positive-Low	3030	IC50 nM
+571	H2-Kb	LKANFSVI	8	Positive	-	-
+572	H2-Kb	LKFAFSMM	8	Positive	-	-
+573	H2-Kb	LKHLNPCDYV	10	Positive-Low	4940	IC50 nM
+574	H2-Kb	LKQVYFESF	9	Positive-Low	1930	IC50 nM
+575	H2-Kb	LKYAGLTI	8	Positive-Intermediate	216	IC50 nM
+576	H2-Kb	LLECFVRS	8	Positive-Low	1200	IC50 nM
+577	H2-Kb	LLLLNTRQL	9	Positive-High	45	IC50 nM
+578	H2-Kb	LLMPYSNL	8	Positive	-	-
+579	H2-Kb	LLNNQFGT	8	Positive-Low	4000	IC50 nM
+580	H2-Kb	LLNNQFGTM	9	Positive-Low	1540	IC50 nM
+581	H2-Kb	LLYAHINAL	9	Positive-Intermediate	83.1	IC50 nM
+582	H2-Kb	LMFSTSAYL	9	Positive-Intermediate	55.7	IC50 nM
+583	H2-Kb	LMYDIINSV	9	Positive-High	1.24	IC50 nM
+584	H2-Kb	LMYEIVGGRF	10	Positive-Low	904	IC50 nM
+585	H2-Kb	LMYIFAAL	8	Positive-High	0.863	IC50 nM
+586	H2-Kb	LNFRFENV	8	Positive-High	0.84	IC50 nM
+587	H2-Kb	LNHNFTLV	8	Positive	-	-
+588	H2-Kb	LNLNYIVAL	9	Positive-High	34.1	IC50 nM
+589	H2-Kb	LNQPFLFVL	9	Positive	-	-
+590	H2-Kb	LNQTVHSL	8	Positive-Low	2150	IC50 nM
+591	H2-Kb	LNTRRRQLL	9	Positive-High	11.6	IC50 nM
+592	H2-Kb	LNVSYLCHL	9	Positive-Intermediate	238	IC50 nM
+593	H2-Kb	LNYRWVNL	8	Positive-High	16.4	IC50 nM
+594	H2-Kb	LNYRWVNLS	9	Positive-Intermediate	257	IC50 nM
+595	H2-Kb	LNYVIHKLF	9	Positive-Low	2910	IC50 nM
+596	H2-Kb	LPPNFSSL	8	Positive	-	-
+597	H2-Kb	LRFLYANV	8	Positive-Intermediate	81.6	IC50 nM
+598	H2-Kb	LSAKFKFML	9	Positive-Low	511	IC50 nM
+599	H2-Kb	LSFEHYGL	8	Positive-High	6.72	IC50 nM
+600	H2-Kb	LSFEHYGLS	9	Positive-Intermediate	75.9	IC50 nM
+601	H2-Kb	LSFLYTLEL	9	Positive-Intermediate	156	IC50 nM
+602	H2-Kb	LSHDFTVV	8	Positive	-	-
+603	H2-Kb	LSHNFTLV	8	Positive	-	-
+604	H2-Kb	LSILFGFL	8	Positive-High	20.4	IC50 nM
+605	H2-Kb	LSLRNPILV	9	Positive-Intermediate	269	IC50 nM
+606	H2-Kb	LSPAYYML	8	Positive-High	1.11	IC50 nM
+607	H2-Kb	LSPFPFDL	8	Positive	-	-
+608	H2-Kb	LSPLYFTSV	9	Positive-High	35.7	IC50 nM
+609	H2-Kb	LSQWFMNA	8	Positive-Intermediate	487	IC50 nM
+610	H2-Kb	LSSIFSRI	8	Positive-Low	3333	IC50 nM
+611	H2-Kb	LSVFRANL	8	Positive	-	-
+612	H2-Kb	LSVFRENL	8	Positive	-	-
+613	H2-Kb	LSVSDRCPL	9	Positive-Low	4750	IC50 nM
+614	H2-Kb	LSYDQLLDSSL	11	Positive-Low	1770	IC50 nM
+615	H2-Kb	LSYLKVEIF	9	Positive-Intermediate	148	IC50 nM
+616	H2-Kb	LSYNIYPFL	9	Positive-High	0.55	IC50 nM
+617	H2-Kb	LSYNYIPV	8	Positive-High	1.27	IC50 nM
+618	H2-Kb	LSYQKEALL	9	Positive-High	38.1	IC50 nM
+619	H2-Kb	LSYSAGAL	8	Positive-High	30	IC50 nM
+620	H2-Kb	LSYSQTML	8	Positive-High	6.53	IC50 nM
+621	H2-Kb	LSYSQTMLL	9	Positive-Intermediate	73	IC50 nM
+622	H2-Kb	LSYVIGLL	8	Positive-High	20.1	IC50 nM
+623	H2-Kb	LTFNYRNL	8	Positive	1	KD nM
+624	H2-Kb	LTIKSNILM	9	Positive-Intermediate	335	IC50 nM
+625	H2-Kb	LTPIFSDL	8	Positive-High	33	IC50 nM
+626	H2-Kb	LTPIFSDLL	9	Positive-High	7.3	IC50 nM
+627	H2-Kb	LTVKMGALF	9	Positive-Intermediate	457	IC50 nM
+628	H2-Kb	LTYSQLMTL	9	Positive-Intermediate	136	IC50 nM
+629	H2-Kb	LVLFYRPI	8	Positive-Intermediate	149	IC50 nM
+630	H2-Kb	LVLLDYQGML	10	Positive	-	-
+631	H2-Kb	LVSIFLHL	8	Positive-Low	2800	IC50 nM
+632	H2-Kb	LVSIFLHLV	9	Positive-Low	4950	IC50 nM
+633	H2-Kb	LVSRNYQML	9	Positive-Intermediate	254	IC50 nM
+634	H2-Kb	LVWKRFEHL	9	Positive-Intermediate	441	IC50 nM
+635	H2-Kb	LVYQFKEM	8	Positive	-	-
+636	H2-Kb	LWYRRVKSL	9	Positive	-	-
+637	H2-Kb	LWYRRVNSL	9	Positive	-	-
+638	H2-Kb	LYTAKYPNL	9	Positive-Intermediate	329	IC50 nM
+639	H2-Kb	LYTVKFPNL	9	Positive-Intermediate	96.7	IC50 nM
+640	H2-Kb	LYTVKYPNL	9	Positive-Intermediate	213	IC50 nM
+641	H2-Kb	MAFFFCFL	8	Positive	-	-
+642	H2-Kb	MAHLRKVIL	9	Positive-Low	4970	IC50 nM
+643	H2-Kb	MAYYRGDCL	9	Positive-High	21.7	IC50 nM
+644	H2-Kb	MCHEGINPNMS	11	Positive-Low	3090	IC50 nM
+645	H2-Kb	MCPFLFLMF	9	Positive-Low	4620	IC50 nM
+646	H2-Kb	MGLIYNRM	8	Positive	188.3	EC50 nM
+647	H2-Kb	MGLKFRQL	8	Positive-High	3.33	IC50 nM
+648	H2-Kb	MGVPYCNY	8	Positive-Low	5740	IC50 nM
+649	H2-Kb	MGYVCSNL	8	Positive-Intermediate	86.8	IC50 nM
+650	H2-Kb	MHQKRTAMF	9	Positive-Low	-	-
+651	H2-Kb	MITQFESL	8	Positive-High	40	IC50 nM
+652	H2-Kb	MMCPFLFL	8	Positive-Intermediate	246	IC50 nM
+653	H2-Kb	MMCPFLFLM	9	Positive-Low	3420	IC50 nM
+654	H2-Kb	MMGMFNML	8	Positive	-	-
+655	H2-Kb	MMIWHSNL	8	Positive-Intermediate	273	IC50 nM
+656	H2-Kb	MNIQFTAV	8	Positive	167.7	EC50 nM
+657	H2-Kb	MNYYWTLL	8	Positive-Intermediate	52	IC50 nM
+658	H2-Kb	MPEWANFKFRD	11	Positive-High	14.6	IC50 nM
+659	H2-Kb	MRMAWGGSYI	10	Positive-Low	2320	IC50 nM
+660	H2-Kb	MRMCHEGINP	10	Positive-Low	3110	IC50 nM
+661	H2-Kb	MSAALKNL	8	Positive-Low	1530	IC50 nM
+662	H2-Kb	MSGWARAL	8	Positive	-	-
+663	H2-Kb	MSHLNLTMP	9	Positive-Low	2110	IC50 nM
+664	H2-Kb	MSIIFFLPL	9	Positive	-	-
+665	H2-Kb	MSPALFHAF	9	Positive-Low	577	IC50 nM
+666	H2-Kb	MSPALFHAFF	10	Positive-Intermediate	111	IC50 nM
+667	H2-Kb	MSRKFMQV	8	Positive-High	0.785	IC50 nM
+668	H2-Kb	MSYSSVMIL	9	Positive-Intermediate	222	IC50 nM
+669	H2-Kb	MTMRCIGI	8	Positive-Low	1085	IC50 nM
+670	H2-Kb	MTSTFIML	8	Positive-Intermediate	88.3	IC50 nM
+671	H2-Kb	MTYVAAEL	8	Positive-High	0.66	IC50 nM
+672	H2-Kb	MVHIYFVSL	9	Positive-High	9.06	IC50 nM
+673	H2-Kb	MVLFYKRL	8	Positive-High	23.9	IC50 nM
+674	H2-Kb	MVMSFVNL	8	Positive	-	-
+675	H2-Kb	NAIVFKGL	8	Positive-Intermediate	219	IC50 nM
+676	H2-Kb	NASDFYGLL	9	Positive-Intermediate	293	IC50 nM
+677	H2-Kb	NDEIMRMCHE	10	Positive-Low	3990	IC50 nM
+678	H2-Kb	NFKFRDLL	8	Positive-High	40.2	IC50 nM
+679	H2-Kb	NFKFRDLLF	9	Positive-High	47.1	IC50 nM
+680	H2-Kb	NFKFRDLLFK	10	Positive-Intermediate	361	IC50 nM
+681	H2-Kb	NFKFRDLLFKL	11	Positive-Low	3640	IC50 nM
+682	H2-Kb	NFLFVFTGAAM	11	Positive	-	-
+683	H2-Kb	NFLKQVYFE	9	Positive-Low	589	IC50 nM
+684	H2-Kb	NFLKQVYFESF	11	Positive-Low	1560	IC50 nM
+685	H2-Kb	NGSCFTIM	8	Positive	-	-
+686	H2-Kb	NGVYFVYL	8	Positive-Intermediate	147	IC50 nM
+687	H2-Kb	NGYIEGKL	8	Positive	-	-
+688	H2-Kb	NGYVFDSL	8	Positive-Intermediate	-	-
+689	H2-Kb	NISGYNFS	8	Positive-Low	2750	IC50 nM
+690	H2-Kb	NISGYNFSL	9	Positive-Low	2030	IC50 nM
+691	H2-Kb	NISGYNFSLGA	11	Positive-Intermediate	314	IC50 nM
+692	H2-Kb	NKKTFDHTL	9	Positive-High	46.5	IC50 nM
+693	H2-Kb	NKKTFDHTLM	10	Positive-Low	1790	IC50 nM
+694	H2-Kb	NKMSYSSV	8	Positive-Intermediate	186	IC50 nM
+695	H2-Kb	NLDNLRDYL	9	Positive	-	-
+696	H2-Kb	NLYNIRNL	8	Positive	-	-
+697	H2-Kb	NMYRYPNQV	9	Positive	-	-
+698	H2-Kb	NNLDNLRDY	9	Positive	-	-
+699	H2-Kb	NNYVYAGL	8	Positive	-	-
+700	H2-Kb	NRDKTEAILQ	10	Positive-Low	4580	IC50 nM
+701	H2-Kb	NSHHYISM	8	Positive-Low	3111	IC50 nM
+702	H2-Kb	NSHQRSDSSLV	11	Positive-Low	4560	IC50 nM
+703	H2-Kb	NSIQRRTL	8	Positive-Low	58794	IC50 nM
+704	H2-Kb	NSIQRRTLDLL	11	Positive-Low	3260	IC50 nM
+705	H2-Kb	NSLILLECFV	10	Positive-Low	662	IC50 nM
+706	H2-Kb	NSQVYSLI	8	Positive	-	-
+707	H2-Kb	NSYSLIRL	8	Positive-Low	527	IC50 nM
+708	H2-Kb	NTLVFPLV	8	Positive	-	-
+709	H2-Kb	NTYLFNIL	8	Positive-High	1.2	IC50 nM
+710	H2-Kb	NTYPFLLTF	9	Positive	-	-
+711	H2-Kb	PDIYKGVYQ	9	Positive-Low	2950	IC50 nM
+712	H2-Kb	PEWANFKFR	9	Positive-Low	3530	IC50 nM
+713	H2-Kb	PEWANFKFRDL	11	Positive-High	49.3	IC50 nM
+714	H2-Kb	PGDYFTTI	8	Positive	-	-
+715	H2-Kb	PNFNQYEAM	9	Positive-Low	1180	IC50 nM
+716	H2-Kb	PRYGFVYEL	9	Positive	-	-
+717	H2-Kb	PSFRWTQSL	9	Positive-Intermediate	210	IC50 nM
+718	H2-Kb	PSNTPPEI	8	Positive-Low	-	-
+719	H2-Kb	PSPSCFVQM	9	Positive	-	-
+720	H2-Kb	PSPSYFVQM	9	Positive	-	-
+721	H2-Kb	PSVRSSVPL	9	Positive	-	-
+722	H2-Kb	PTHLFQPSL	9	Positive	-	-
+723	H2-Kb	QAIHFANL	8	Positive	-	-
+724	H2-Kb	QALDFISL	8	Positive	-	-
+725	H2-Kb	QALIYAEM	8	Positive	-	-
+726	H2-Kb	QALVFSNL	8	Positive	-	-
+727	H2-Kb	QAPVLTNL	8	Positive	-	-
+728	H2-Kb	QFFVFLAL	8	Positive-Intermediate	55.3	IC50 nM
+729	H2-Kb	QFKSVEFDM	9	Positive-Low	3000	IC50 nM
+730	H2-Kb	QFKSVEFDMS	10	Positive-Low	4790	IC50 nM
+731	H2-Kb	QGINNLDNL	9	Positive	-	-
+732	H2-Kb	QIISFFSPL	9	Positive-Intermediate	-	-
+733	H2-Kb	QITLFDRRL	9	Positive-Intermediate	57.3	IC50 nM
+734	H2-Kb	QLLPFMSDM	9	Positive-Intermediate	109	IC50 nM
+735	H2-Kb	QLLRREVYDF	10	Positive	-	-
+736	H2-Kb	QPEWFRNV	8	Positive	-	-
+737	H2-Kb	QRRTLDLL	8	Positive-Low	3070	IC50 nM
+738	H2-Kb	QSIEFSRL	8	Positive	-	-
+739	H2-Kb	QSIVFKSL	8	Positive	-	-
+740	H2-Kb	QSLRRLSSV	9	Positive-Intermediate	230	IC50 nM
+741	H2-Kb	QSSVASGFIGF	11	Positive-Low	1540	IC50 nM
+742	H2-Kb	QSVRYLVM	8	Positive-Low	1240	IC50 nM
+743	H2-Kb	QSVRYLVMAI	10	Positive-Low	1560	IC50 nM
+744	H2-Kb	QTFDFGML	8	Positive	-	-
+745	H2-Kb	QTFDFGRL	8	Positive-High	2.1	IC50 nM
+746	H2-Kb	QTMLLKDLM	9	Positive-Intermediate	162	IC50 nM
+747	H2-Kb	QVIQSVRRL	9	Positive-Low	850	IC50 nM
+748	H2-Kb	QVVQFNRL	8	Positive	-	-
+749	H2-Kb	QVWEKYGHL	9	Positive-Intermediate	110	IC50 nM
+750	H2-Kb	RALIFILL	8	Positive-High	22	IC50 nM
+751	H2-Kb	RALLLAAVL	9	Positive	-	-
+752	H2-Kb	RAPQFINL	8	Positive	-	-
+753	H2-Kb	RAYVYQGL	8	Positive	35	IC50 nM
+754	H2-Kb	RCINCQKPL	9	Positive-Low	-	-
+755	H2-Kb	RCPLCKYPL	9	Positive-Low	3310	IC50 nM
+756	H2-Kb	RDLLFKLLEY	10	Positive-Low	2930	IC50 nM
+757	H2-Kb	REVYDFAFRD	10	Positive	100000	IC50 nM
+758	H2-Kb	REVYDFAFRDL	11	Positive-High	700	IC50 nM
+759	H2-Kb	RFYRTCKL	8	Positive	212.4	EC50 nM
+760	H2-Kb	RGPGRAFCTI	10	Positive	-	-
+761	H2-Kb	RGPGRAFVTI	10	Positive	-	-
+762	H2-Kb	RGPNVVTL	8	Positive-Intermediate	268	IC50 nM
+763	H2-Kb	RGRWTGRCM	9	Positive-Low	-	-
+764	H2-Kb	RGTSFVYV	8	Positive-Intermediate	483	IC50 nM
+765	H2-Kb	RGYAYQGL	8	Positive	200	IC50 nM
+766	H2-Kb	RGYKYQGL	8	Positive	-	-
+767	H2-Kb	RGYLYQGL	8	Positive	2.1	Angstroms
+768	H2-Kb	RGYRIQRL	8	Positive-Intermediate	53.3	IC50 nM
+769	H2-Kb	RGYRIQRLI	9	Positive-Low	3030	IC50 nM
+770	H2-Kb	RGYVFQGL	8	Positive-High	3.1	IC50 nM
+771	H2-Kb	RGYVYAGL	8	Positive	45	IC50 nM
+772	H2-Kb	RGYVYEGL	8	Positive		Angstroms
+773	H2-Kb	RGYVYQAL	8	Positive	1445	IC50 nM
+774	H2-Kb	RGYVYQGL	8	Positive	2.8	Angstroms
+775	H2-Kb	RHLDKKQRF	9	Positive-Low	-	-
+776	H2-Kb	RHYCYSLY	8	Positive-Low	-	-
+777	H2-Kb	RIDSFFRL	8	Positive-Intermediate	-	-
+778	H2-Kb	RISRFANL	8	Positive-High	2.11	IC50 nM
+779	H2-Kb	RLYDYFTRV	9	Positive-Intermediate	113	IC50 nM
+780	H2-Kb	RMCHEGIN	8	Positive-Low	662	IC50 nM
+781	H2-Kb	RMNYYWTL	8	Positive	-	-
+782	H2-Kb	RMPVYILL	8	Positive-High	28	IC50 nM
+783	H2-Kb	RNPGYALV	8	Positive	-	-
+784	H2-Kb	RNTDFFGL	8	Positive	-	-
+785	H2-Kb	RNYIEPYL	8	Positive-Intermediate	389	IC50 nM
+786	H2-Kb	RNYQMLLAL	9	Positive-High	6.04	IC50 nM
+787	H2-Kb	RQYMFSSL	8	Positive	-	-
+788	H2-Kb	RRTLDLLKY	9	Positive-Intermediate	240	IC50 nM
+789	H2-Kb	RSFCIYGHL	9	Positive-Intermediate	75	IC50 nM
+790	H2-Kb	RSFIIIPL	8	Positive-Intermediate	98.1	IC50 nM
+791	H2-Kb	RSIDFERV	8	Positive-High	1.11	IC50 nM
+792	H2-Kb	RSILLIPL	8	Positive-High	21.1	IC50 nM
+793	H2-Kb	RSILLIPLS	9	Positive-Low	1130	IC50 nM
+794	H2-Kb	RSISFSNM	8	Positive	-	-
+795	H2-Kb	RSPVFSAM	8	Positive	-	-
+796	H2-Kb	RSPWFTTL	8	Positive	84	t1/2 (min)
+797	H2-Kb	RSVSFTSL	8	Positive	-	-
+798	H2-Kb	RSYCYLAT	8	Positive-Low	-	-
+799	H2-Kb	RSYLIRAL	8	Positive-Intermediate	67	IC50 nM
+800	H2-Kb	RTFDFGML	8	Positive	-	-
+801	H2-Kb	RTFDFGRL	8	Positive	-	-
+802	H2-Kb	RTFRGRVL	8	Positive-Low	1390	IC50 nM
+803	H2-Kb	RTFSFQLI	8	Positive-High	9.7	IC50 nM
+804	H2-Kb	RTKMFTRL	8	Positive-High	2.22	IC50 nM
+805	H2-Kb	RTLEDLLMG	9	Positive-Low	-	-
+806	H2-Kb	RTLGNFSWF	9	Positive-Low	782	IC50 nM
+807	H2-Kb	RTLLLLML	8	Positive-Low	4520	IC50 nM
+808	H2-Kb	RTTDFTRL	8	Positive-Intermediate	197	IC50 nM
+809	H2-Kb	RTYTYEKL	8	Positive	-	-
+810	H2-Kb	RVVSFTQM	8	Positive	-	-
+811	H2-Kb	RVYEALYYV	9	Positive-Intermediate	264	IC50 nM
+812	H2-Kb	RWTGRCMSC	9	Positive-Low	-	-
+813	H2-Kb	SADHSATPM	9	Positive-Low	25000	KD nM
+814	H2-Kb	SADHSRTPM	9	Positive	190	KD nM
+815	H2-Kb	SAFEFNEL	8	Positive	-	-
+816	H2-Kb	SAFLIVRL	8	Positive-Intermediate	160	IC50 nM
+817	H2-Kb	SAFSFRTL	8	Positive	-	-
+818	H2-Kb	SAINNYAQK	9	Positive	-	-
+819	H2-Kb	SALIYSNL	8	Positive	-	-
+820	H2-Kb	SALRFQAM	8	Positive	-	-
+821	H2-Kb	SAMVFSAM	8	Positive	-	-
+822	H2-Kb	SAPDFRPA	8	Positive	130	KD nM
+823	H2-Kb	SAPDFRPL	8	Positive	2.7	Angstroms
+824	H2-Kb	SAPDTRPA	8	Positive	1.6	Angstroms
+825	H2-Kb	SAPDTRPL	8	Positive	250	KD nM
+826	H2-Kb	SAPMNVDNL	9	Positive-Low	1515	IC50 nM
+827	H2-Kb	SAPMYQYL	8	Positive	-	-
+828	H2-Kb	SAVIFRTL	8	Positive	-	-
+829	H2-Kb	SAWSFPVL	8	Positive	-	-
+830	H2-Kb	SAYLVSIF	8	Positive-Low	958	IC50 nM
+831	H2-Kb	SAYLVSIFL	9	Positive-Intermediate	238	IC50 nM
+832	H2-Kb	SCMKMILLQM	10	Positive-Low	1390	IC50 nM
+833	H2-Kb	SCWQKFDSLV	10	Positive-Low	1490	IC50 nM
+834	H2-Kb	SDITKVSL	8	Positive-Low	1261	IC50 nM
+835	H2-Kb	SEIEFARL	8	Positive	2.1	Angstroms
+836	H2-Kb	SFELGVWVL	9	Positive-Low	2400	IC50 nM
+837	H2-Kb	SFMPEWANF	9	Positive-Low	3060	IC50 nM
+838	H2-Kb	SFPTYNFL	8	Positive	-	-
+839	H2-Kb	SFYADPKRF	9	Positive-Low	1660	IC50 nM
+840	H2-Kb	SFYRFLFA	8	Positive	64	IC50 nM
+841	H2-Kb	SGIIFIRL	8	Positive	-	-
+842	H2-Kb	SGIIFLHL	8	Positive	-	-
+843	H2-Kb	SGIIFVHL	8	Positive	-	-
+844	H2-Kb	SGIIFVRL	8	Positive	-	-
+845	H2-Kb	SGIIFYHL	8	Positive	-	-
+846	H2-Kb	SGIVFLHL	8	Positive	-	-
+847	H2-Kb	SGIVFRRL	8	Positive	-	-
+848	H2-Kb	SGIVFVHL	8	Positive	-	-
+849	H2-Kb	SGIVFVRL	8	Positive	-	-
+850	H2-Kb	SGIVYIHL	8	Positive	-	-
+851	H2-Kb	SGMDSMKIL	9	Positive-Low	4530	IC50 nM
+852	H2-Kb	SGPDLISL	8	Positive	-	-
+853	H2-Kb	SGPQFVQL	8	Positive	-	-
+854	H2-Kb	SGPSVRSSV	9	Positive	-	-
+855	H2-Kb	SGPTYIKL	8	Positive	-	-
+856	H2-Kb	SGTVYIHL	8	Positive	75	KD nM
+857	H2-Kb	SGVYMGNL	8	Positive-Intermediate	52.3	IC50 nM
+858	H2-Kb	SGWARALLL	9	Positive	-	-
+859	H2-Kb	SGWARALSL	9	Positive	-	-
+860	H2-Kb	SGYDFERE	8	Positive	-	-
+861	H2-Kb	SGYDFSRL	8	Positive	-	-
+862	H2-Kb	SGYKFGVL	8	Positive	-	-
+863	H2-Kb	SGYNFSLG	8	Positive-Intermediate	51.1	IC50 nM
+864	H2-Kb	SGYNFSLGA	9	Positive-High	5.91	IC50 nM
+865	H2-Kb	SGYNFSLGAA	10	Positive-High	3.17	IC50 nM
+866	H2-Kb	SGYNFSLGAAV	11	Positive-High	0.375	IC50 nM
+867	H2-Kb	SHIIWVSL	8	Positive-Intermediate	313	IC50 nM
+868	H2-Kb	SHISSLIDM	9	Positive-Intermediate	97.9	IC50 nM
+869	H2-Kb	SHQRSDSSLV	10	Positive-Low	4210	IC50 nM
+870	H2-Kb	SIDRFLRV	8	Positive	-	-
+871	H2-Kb	SIFLHLVKI	9	Positive-High	18.9	IC50 nM
+872	H2-Kb	SIFRFLNI	8	Positive-High	1.19	IC50 nM
+873	H2-Kb	SIIAFEKL	8	Positive	-	-
+874	H2-Kb	SIICFEKL	8	Positive	-	-
+875	H2-Kb	SIIDFEKL	8	Positive	-	-
+876	H2-Kb	SIIEFARL	8	Positive	-	-
+877	H2-Kb	SIIEFEKL	8	Positive	-	-
+878	H2-Kb	SIIFFEKL	8	Positive	-	-
+879	H2-Kb	SIIFFLPL	8	Positive	-	-
+880	H2-Kb	SIIGFEKL	8	Positive	2	Angstroms
+881	H2-Kb	SIIKFEKL	8	Positive	-	-
+882	H2-Kb	SIINFAKL	8	Positive	-	-
+883	H2-Kb	SIINFARL	8	Positive	-	-
+884	H2-Kb	SIINFEEL	8	Positive	-	-
+885	H2-Kb	SIINFEKL	8	Positive	2.5	Angstroms
+886	H2-Kb	SIINFEQL	8	Positive	-	-
+887	H2-Kb	SIIPSGPL	8	Positive-Intermediate	177	IC50 nM
+888	H2-Kb	SIIQFEKL	8	Positive	-	-
+889	H2-Kb	SIIRFEKL	8	Positive	-	-
+890	H2-Kb	SILFFVFV	8	Positive-Intermediate	311	IC50 nM
+891	H2-Kb	SIQRRTLDLL	10	Positive-Low	2960	IC50 nM
+892	H2-Kb	SIYQYVRL	8	Positive-High	8.24	IC50 nM
+893	H2-Kb	SIYRYYGL	8	Positive	2.8	Angstroms
+894	H2-Kb	SLEVELTSL	9	Positive	37	IC50 nM
+895	H2-Kb	SLFLHLVGF	9	Positive-High	16	IC50 nM
+896	H2-Kb	SLIGFAEI	8	Positive	-	-
+897	H2-Kb	SLILLECFV	9	Positive-Low	662	IC50 nM
+898	H2-Kb	SLILLECFVRS	11	Positive-Low	4390	IC50 nM
+899	H2-Kb	SLKIFATL	8	Positive	-	-
+900	H2-Kb	SLKLLNTRRR	10	Positive-Low	3880	IC50 nM
+901	H2-Kb	SLLNNQFGTM	10	Positive-Low	1210	IC50 nM
+902	H2-Kb	SLVELTSL	8	Positive	39	IC50 nM
+903	H2-Kb	SLVGFTQM	8	Positive	-	-
+904	H2-Kb	SLYASPQL	8	Positive	144.9	EC50 nM
+905	H2-Kb	SMGIYQIL	8	Positive	-	-
+906	H2-Kb	SMGTSGLEL	9	Positive-Low	2220	IC50 nM
+907	H2-Kb	SMLNKVKSL	9	Positive-Low	2120	IC50 nM
+908	H2-Kb	SMLSNLTNL	9	Positive-High	29.6	IC50 nM
+909	H2-Kb	SMQKFGEL	8	Positive	-	-
+910	H2-Kb	SMQKFGER	8	Positive	-	-
+911	H2-Kb	SMQKFGKL	8	Positive	-	-
+912	H2-Kb	SMYCSKTFL	9	Positive-Intermediate	64.6	IC50 nM
+913	H2-Kb	SNRDFLEGV	9	Positive	-	-
+914	H2-Kb	SNVKYVML	8	Positive	-	-
+915	H2-Kb	SNYGFTLA	8	Positive	-	-
+916	H2-Kb	SNYNKSVNV	9	Positive	-	-
+917	H2-Kb	SNYRFEGL	8	Positive	-	-
+918	H2-Kb	SNYSGHELM	9	Positive-High	6.52	IC50 nM
+919	H2-Kb	SPASFEKK	8	Positive-Low	2720	IC50 nM
+920	H2-Kb	SPLYFTSV	8	Positive-Low	1440	IC50 nM
+921	H2-Kb	SPTSYTSV	8	Positive-Low	1090	IC50 nM
+922	H2-Kb	SPYLVIPRL	9	Positive	-	-
+923	H2-Kb	SQIEFARL	8	Positive	-	-
+924	H2-Kb	SQTSYQYL	8	Positive-Low	1866	IC50 nM
+925	H2-Kb	SQYVFTEM	8	Positive	-	-
+926	H2-Kb	SQYYYNSL	8	Positive	1000	EC50 nM
+927	H2-Kb	SRAHSRTPM	9	Positive-Low	3500	KD nM
+928	H2-Kb	SRDASRTPM	9	Positive	360	KD nM
+929	H2-Kb	SRDHARTPM	9	Positive	350	KD nM
+930	H2-Kb	SRDHSATPM	9	Positive-Low	1300	KD nM
+931	H2-Kb	SRDHSRAPM	9	Positive	320	KD nM
+932	H2-Kb	SRDHSRTAM	9	Positive	330	KD nM
+933	H2-Kb	SRDHSRTPA	9	Positive-Low	3800	KD nM
+934	H2-Kb	SRDHSRTPM	9	Positive	2.5	Angstroms
+935	H2-Kb	SRGYRIQRL	9	Positive-Low	4090	IC50 nM
+936	H2-Kb	SRIVFERKL	9	Positive	-	-
+937	H2-Kb	SRPMFLYV	8	Positive	-	-
+938	H2-Kb	SRTRRETQL	9	Positive-Low	-	-
+939	H2-Kb	SSCFTSVML	9	Positive	-	-
+940	H2-Kb	SSDDFALI	8	Positive	170.5	EC50 nM
+941	H2-Kb	SSEPHCALL	9	Positive-Low	1060	IC50 nM
+942	H2-Kb	SSFDYCGV	8	Positive-High	14.1	IC50 nM
+943	H2-Kb	SSFEQMRL	8	Positive-High	34.6	IC50 nM
+944	H2-Kb	SSFFSGSCL	9	Positive-Low	1490	IC50 nM
+945	H2-Kb	SSFNNGTL	8	Positive-Intermediate	103	IC50 nM
+946	H2-Kb	SSFNNGTLI	9	Positive-Low	1150	IC50 nM
+947	H2-Kb	SSIEFARL	8	Positive	2	Angstroms
+948	H2-Kb	SSIEFEKL	8	Positive	-	-
+949	H2-Kb	SSINFARL	8	Positive	-	-
+950	H2-Kb	SSINFEKL	8	Positive	-	-
+951	H2-Kb	SSISFCGV	8	Positive	13.4	EC50 nM
+952	H2-Kb	SSLENFRAYV	10	Positive-Intermediate	80.9	IC50 nM
+953	H2-Kb	SSLIKQSKF	9	Positive-Intermediate	472	IC50 nM
+954	H2-Kb	SSLLNNQFGTM	11	Positive-Low	1040	IC50 nM
+955	H2-Kb	SSLNYFTL	8	Positive	-	-
+956	H2-Kb	SSLPFQNI	8	Positive-High	8.8	IC50 nM
+957	H2-Kb	SSMRYTCL	8	Positive-High	2.34	IC50 nM
+958	H2-Kb	SSVNFMPL	8	Positive	-	-
+959	H2-Kb	SSVRFSYM	8	Positive	-	-
+960	H2-Kb	SSWAFARFL	9	Positive	-	-
+961	H2-Kb	SSWDFITV	8	Positive	-	-
+962	H2-Kb	SSWDLISL	8	Positive	-	-
+963	H2-Kb	SSWDYITV	8	Positive	-	-
+964	H2-Kb	SSWPPYNIL	9	Positive-Intermediate	121	IC50 nM
+965	H2-Kb	SSYRRPVGI	9	Positive	2	Angstroms
+966	H2-Kb	SSYSNRFL	8	Positive-High	41.4	IC50 nM
+967	H2-Kb	STFDLAILL	9	Positive-High	8.29	IC50 nM
+968	H2-Kb	STFIYNSM	8	Positive	-	-
+969	H2-Kb	STGLFNPM	8	Positive	-	-
+970	H2-Kb	STHVDIRTLE	10	Positive	-	-
+971	H2-Kb	STIFFTASL	9	Positive-High	43.8	IC50 nM
+972	H2-Kb	STLFYVSSIFL	11	Positive-Intermediate	120	IC50 nM
+973	H2-Kb	STLMYEIV	8	Positive-Low	508	IC50 nM
+974	H2-Kb	STLNFNNL	8	Positive-High	12	IC50 nM
+975	H2-Kb	STLVRFPSV	9	Positive	-	-
+976	H2-Kb	STREYLKL	8	Positive-High	44.7	IC50 nM
+977	H2-Kb	STRMFLKV	8	Positive	-	-
+978	H2-Kb	STSINLPYI	9	Positive	-	-
+979	H2-Kb	STTSFYSL	8	Positive-High	9.91	IC50 nM
+980	H2-Kb	STVEFTNL	8	Positive	-	-
+981	H2-Kb	STVIKGPLL	9	Positive-Intermediate	79.3	IC50 nM
+982	H2-Kb	STVLFSSPPV	10	Positive	-	-
+983	H2-Kb	STVNDSRL	8	Positive	-	-
+984	H2-Kb	SVEFDMSHLN	10	Positive-Low	894	IC50 nM
+985	H2-Kb	SVIGALPQGM	10	Positive-Low	1420	IC50 nM
+986	H2-Kb	SVNDRLVSF	9	Positive-Intermediate	136	IC50 nM
+987	H2-Kb	SVPIRLLVL	9	Positive	-	-
+988	H2-Kb	SVVEFTSL	8	Positive	-	-
+989	H2-Kb	SVYLIHDNI	9	Positive-Intermediate	378	IC50 nM
+990	H2-Kb	SWFPHKEMM	9	Positive-Intermediate	234	IC50 nM
+991	H2-Kb	SYIPSAEKI	9	Positive-Intermediate	185	IC50 nM
+992	H2-Kb	SYITPYVPM	9	Positive-Low	2050	IC50 nM
+993	H2-Kb	TAYEFAKL	8	Positive	-	-
+994	H2-Kb	TEAILQLG	8	Positive-Low	2610	IC50 nM
+995	H2-Kb	TEVAFGLV	8	Positive-Intermediate	292	IC50 nM
+996	H2-Kb	TFDHTLMSI	9	Positive-Low	2940	IC50 nM
+997	H2-Kb	TFDHTLMSIV	10	Positive-High	27.7	IC50 nM
+998	H2-Kb	TFDHTLMSIVS	11	Positive-Low	622	IC50 nM
+999	H2-Kb	TGFNVHSL	8	Positive-Low	3170	IC50 nM
+1000	H2-Kb	TGFRYSYM	8	Positive-High	11	IC50 nM
+1001	H2-Kb	TGVKFVPM	8	Positive-Intermediate	-	-
+1002	H2-Kb	TGVQFYMIV	9	Positive-Intermediate	58.3	IC50 nM
+1003	H2-Kb	TGYRYDSRT	9	Positive	-	-
+1004	H2-Kb	THVDIRTLE	9	Positive-Low	-	-
+1005	H2-Kb	TIFFTASL	8	Positive-Intermediate	465	IC50 nM
+1006	H2-Kb	TIFVTGGL	8	Positive-Intermediate	206	IC50 nM
+1007	H2-Kb	TILEFAQL	8	Positive	-	-
+1008	H2-Kb	TIQRFSSL	8	Positive-High	1.1	IC50 nM
+1009	H2-Kb	TIYSVVPV	8	Positive-Intermediate	67	IC50 nM
+1010	H2-Kb	TLADFTSL	8	Positive-Low	-	-
+1011	H2-Kb	TLFLHLVGF	9	Positive-High	17.7	IC50 nM
+1012	H2-Kb	TLGIVCPIC	9	Positive-Low	-	-
+1013	H2-Kb	TMFEALPHI	9	Positive-Intermediate	63.5	IC50 nM
+1014	H2-Kb	TMIKFNRL	8	Positive	-	-
+1015	H2-Kb	TMMINPFMI	9	Positive-Intermediate	124	IC50 nM
+1016	H2-Kb	TMYNIRNNL	9	Positive-High	1.98	IC50 nM
+1017	H2-Kb	TNINFPNL	8	Positive	-	-
+1018	H2-Kb	TNISFTNM	8	Positive	-	-
+1019	H2-Kb	TNLVYPAL	8	Positive	-	-
+1020	H2-Kb	TNYIFDSL	8	Positive	-	-
+1021	H2-Kb	TNYKFSLV	8	Positive-High	10	IC50 nM
+1022	H2-Kb	TNYLSSEHL	9	Positive-Intermediate	345	IC50 nM
+1023	H2-Kb	TQYPRLMLL	9	Positive-High	15.4	IC50 nM
+1024	H2-Kb	TRIAYERM	8	Positive	-	-
+1025	H2-Kb	TRVAFAGL	8	Positive	-	-
+1026	H2-Kb	TSAFNKKTFD	10	Positive-Low	1480	IC50 nM
+1027	H2-Kb	TSAYLVSIF	9	Positive-Intermediate	267	IC50 nM
+1028	H2-Kb	TSFSSRLL	8	Positive-Intermediate	57.4	IC50 nM
+1029	H2-Kb	TSFYHAVML	9	Positive-High	7.17	IC50 nM
+1030	H2-Kb	TSFYLISIF	9	Positive-Low	1060	IC50 nM
+1031	H2-Kb	TSINFVKI	8	Positive-High	32	IC50 nM
+1032	H2-Kb	TSLVFETL	8	Positive-High	7.76	IC50 nM
+1033	H2-Kb	TSNVITDQTV	10	Positive-Low	4967	IC50 nM
+1034	H2-Kb	TSPEYYSA	8	Positive-Intermediate	79.1	IC50 nM
+1035	H2-Kb	TSPIFQWL	8	Positive	-	-
+1036	H2-Kb	TSSVYIEV	8	Positive-Intermediate	452	IC50 nM
+1037	H2-Kb	TSTEYERL	8	Positive-High	33.7	IC50 nM
+1038	H2-Kb	TSVILTRL	8	Positive	-	-
+1039	H2-Kb	TSVMLTRL	8	Positive	-	-
+1040	H2-Kb	TSVQFMKL	8	Positive	-	-
+1041	H2-Kb	TSVRFTQL	8	Positive	-	-
+1042	H2-Kb	TSVVFNKL	8	Positive	-	-
+1043	H2-Kb	TSYKFESV	8	Positive-High	0.19	IC50 nM
+1044	H2-Kb	TSYQYLII	8	Positive-High	34	IC50 nM
+1045	H2-Kb	TTIDKRSGM	9	Positive-High	45.1	IC50 nM
+1046	H2-Kb	TTNAHCALL	9	Positive-Intermediate	224	IC50 nM
+1047	H2-Kb	TTTLFLHL	8	Positive-High	14.4	IC50 nM
+1048	H2-Kb	TTTLFLHLV	9	Positive-Low	4760	IC50 nM
+1049	H2-Kb	TVFDYYVL	8	Positive-Intermediate	60.1	IC50 nM
+1050	H2-Kb	TVFFTASL	8	Positive-Intermediate	283	IC50 nM
+1051	H2-Kb	TVNPFVSV	8	Positive	-	-
+1052	H2-Kb	TVSGFLGEL	9	Positive	-	-
+1053	H2-Kb	TVYVFPNT	8	Positive-High	0.558	IC50 nM
+1054	H2-Kb	TWIDIEGRF	9	Positive-Intermediate	297	IC50 nM
+1055	H2-Kb	TYNIFAIM	8	Positive	-	-
+1056	H2-Kb	VADKFTEL	8	Positive	-	-
+1057	H2-Kb	VAFLRFLTI	9	Positive-High	20	IC50 nM
+1058	H2-Kb	VAGRFAAEF	9	Positive-High	22.7	IC50 nM
+1059	H2-Kb	VALRTLLL	8	Positive-Intermediate	165	IC50 nM
+1060	H2-Kb	VALRTLLLL	9	Positive-Intermediate	179	IC50 nM
+1061	H2-Kb	VAMVFKTL	8	Positive	-	-
+1062	H2-Kb	VAPGYPLL	8	Positive	-	-
+1063	H2-Kb	VARENKVFLLV	11	Positive	-	-
+1064	H2-Kb	VARLRQNQI	9	Positive-Low	801	IC50 nM
+1065	H2-Kb	VARVFLGL	8	Positive-High	2.94	IC50 nM
+1066	H2-Kb	VAVSFVTLI	9	Positive-High	12	IC50 nM
+1067	H2-Kb	VCKNFLKQV	9	Positive-Low	1930	IC50 nM
+1068	H2-Kb	VCKNFLKQVYF	11	Positive-Intermediate	178	IC50 nM
+1069	H2-Kb	VCYNFKVQF	9	Positive-Low	1260	IC50 nM
+1070	H2-Kb	VCYYLLMHL	9	Positive-High	2.28	IC50 nM
+1071	H2-Kb	VDQNFTLV	8	Positive	-	-
+1072	H2-Kb	VDSTFTLV	8	Positive	-	-
+1073	H2-Kb	VDYNFTIV	8	Positive	-	-
+1074	H2-Kb	VEFDMSHLN	9	Positive-Low	1690	IC50 nM
+1075	H2-Kb	VEFLLYRL	8	Positive-Low	4770	IC50 nM
+1076	H2-Kb	VEVPFPVV	8	Positive-Low	2880	IC50 nM
+1077	H2-Kb	VEYSFIAA	8	Positive-Low	671	IC50 nM
+1078	H2-Kb	VFCQVIKL	8	Positive-High	20.8	IC50 nM
+1079	H2-Kb	VFYEQMKRF	9	Positive-Intermediate	344	IC50 nM
+1080	H2-Kb	VGCCYSSV	8	Positive-High	16.1	IC50 nM
+1081	H2-Kb	VGFLFYQK	8	Positive-Low	1170	IC50 nM
+1082	H2-Kb	VGFLFYQKT	9	Positive-Intermediate	161	IC50 nM
+1083	H2-Kb	VGIGFSNL	8	Positive	-	-
+1084	H2-Kb	VGKEFNKL	8	Positive	-	-
+1085	H2-Kb	VGLMFAIV	8	Positive	-	-
+1086	H2-Kb	VGLSYSQT	8	Positive-Intermediate	58.4	IC50 nM
+1087	H2-Kb	VGLSYSQTM	9	Positive-Intermediate	64	IC50 nM
+1088	H2-Kb	VGPDSGRL	8	Positive-Intermediate	479	IC50 nM
+1089	H2-Kb	VGPEWEPV	8	Positive-Intermediate	486	IC50 nM
+1090	H2-Kb	VGPEWEPVPL	10	Positive-Low	3730	IC50 nM
+1091	H2-Kb	VGPFFVWL	8	Positive	-	-
+1092	H2-Kb	VGYYLVIYL	9	Positive-High	20.6	IC50 nM
+1093	H2-Kb	VHKRFTLV	8	Positive	-	-
+1094	H2-Kb	VIGALPQGM	9	Positive-Low	4760	IC50 nM
+1095	H2-Kb	VIGCYGSL	8	Positive-Intermediate	70	IC50 nM
+1096	H2-Kb	VIIDTFADL	9	Positive	-	-
+1097	H2-Kb	VIKDATNL	8	Positive-Low	734	IC50 nM
+1098	H2-Kb	VIKDATNLL	9	Positive-Intermediate	143	IC50 nM
+1099	H2-Kb	VINIVIIV	8	Positive-Low	4370	IC50 nM
+1100	H2-Kb	VIQSVRRL	8	Positive-High	50	IC50 nM
+1101	H2-Kb	VIQVFQQL	8	Positive	-	-
+1102	H2-Kb	VIVEFRDL	8	Positive	-	-
+1103	H2-Kb	VIYIFTVRL	9	Positive-High	0.847	IC50 nM
+1104	H2-Kb	VKIGPPTV	8	Positive-Intermediate	420	IC50 nM
+1105	H2-Kb	VKISDITKV	9	Positive-Low	4930	IC50 nM
+1106	H2-Kb	VKNLYEKV	8	Positive	-	-
+1107	H2-Kb	VKSLKLLNT	9	Positive-Intermediate	346	IC50 nM
+1108	H2-Kb	VKYRFTLV	8	Positive	-	-
+1109	H2-Kb	VLDMFRTAF	9	Positive-Low	1110	IC50 nM
+1110	H2-Kb	VLLDYQGM	8	Positive-Low	3333	IC50 nM
+1111	H2-Kb	VLLEFQSHL	9	Positive-High	1.69	IC50 nM
+1112	H2-Kb	VLLPFYETL	9	Positive-High	7.82	IC50 nM
+1113	H2-Kb	VLRGFLIL	8	Positive	-	-
+1114	H2-Kb	VLVTFCKL	8	Positive-High	21.9	IC50 nM
+1115	H2-Kb	VLYDEFVTI	9	Positive-Intermediate	346	IC50 nM
+1116	H2-Kb	VMYAFTTPL	9	Positive-High	0.614	IC50 nM
+1117	H2-Kb	VNGPVAVAV	9	Positive	-	-
+1118	H2-Kb	VNHDFTIV	8	Positive	-	-
+1119	H2-Kb	VNHDFTLV	8	Positive	-	-
+1120	H2-Kb	VNHDFTVV	8	Positive	-	-
+1121	H2-Kb	VNHNFTLV	8	Positive	-	-
+1122	H2-Kb	VNHRFILV	8	Positive	-	-
+1123	H2-Kb	VNHRFTIV	8	Positive	-	-
+1124	H2-Kb	VNHRFTLV	8	Positive	-	-
+1125	H2-Kb	VNHYFPLV	8	Positive	-	-
+1126	H2-Kb	VNIEFKDL	8	Positive	-	-
+1127	H2-Kb	VNLEAFSL	8	Positive-Intermediate	79.4	IC50 nM
+1128	H2-Kb	VNLEAFSLM	9	Positive-High	0.548	IC50 nM
+1129	H2-Kb	VNLNTLPL	8	Positive-Intermediate	217	IC50 nM
+1130	H2-Kb	VNLREYPSL	9	Positive	-	-
+1131	H2-Kb	VNLYKSGLF	9	Positive-Intermediate	124	IC50 nM
+1132	H2-Kb	VNQEFINM	8	Positive	-	-
+1133	H2-Kb	VNRKFTLV	8	Positive	-	-
+1134	H2-Kb	VNRRFTLV	8	Positive	-	-
+1135	H2-Kb	VNSIQRRTL	9	Positive-Low	3210	IC50 nM
+1136	H2-Kb	VNVWKSGIL	9	Positive-Intermediate	303	IC50 nM
+1137	H2-Kb	VNWLNLNEM	9	Positive-Low	686	IC50 nM
+1138	H2-Kb	VNYDFALV	8	Positive	-	-
+1139	H2-Kb	VNYDFGHM	8	Positive	-	-
+1140	H2-Kb	VNYDFTLV	8	Positive	-	-
+1141	H2-Kb	VPFPVVNA	8	Positive-Low	789	IC50 nM
+1142	H2-Kb	VPPDLLPNL	9	Positive	-	-
+1143	H2-Kb	VPYCNYTRF	9	Positive-Intermediate	150	IC50 nM
+1144	H2-Kb	VQFLFSSM	8	Positive-High	2.3	IC50 nM
+1145	H2-Kb	VQSVRYLVM	9	Positive-Low	522	IC50 nM
+1146	H2-Kb	VQYIKFIFL	9	Positive-High	4.15	IC50 nM
+1147	H2-Kb	VRRLYPKI	8	Positive-Low	1620	IC50 nM
+1148	H2-Kb	VRYLVMAI	8	Positive-Low	575	IC50 nM
+1149	H2-Kb	VRYLVMAIV	9	Positive-Intermediate	160	IC50 nM
+1150	H2-Kb	VSAAFYHL	8	Positive-High	2.33	IC50 nM
+1151	H2-Kb	VSAALHNV	8	Positive-Intermediate	236	IC50 nM
+1152	H2-Kb	VSAHAFTFM	9	Positive-Intermediate	99	IC50 nM
+1153	H2-Kb	VSCDFNNGI	9	Positive-Low	1670	IC50 nM
+1154	H2-Kb	VSCDFTIV	8	Positive	-	-
+1155	H2-Kb	VSDLYTSM	8	Positive-High	7	IC50 nM
+1156	H2-Kb	VSEIFVEL	8	Positive-Low	-	-
+1157	H2-Kb	VSFICTTIL	9	Positive-Intermediate	80	IC50 nM
+1158	H2-Kb	VSFSMVGL	8	Positive-High	7.26	IC50 nM
+1159	H2-Kb	VSFSMVGLF	9	Positive-High	16.2	IC50 nM
+1160	H2-Kb	VSFTYRYL	8	Positive	-	-
+1161	H2-Kb	VSHNFTLV	8	Positive	-	-
+1162	H2-Kb	VSIFLHLV	8	Positive-Low	1280	IC50 nM
+1163	H2-Kb	VSIFLHLVKI	10	Positive-Low	2490	IC50 nM
+1164	H2-Kb	VSKKYLSL	8	Positive-Intermediate	87	IC50 nM
+1165	H2-Kb	VSKLVSRL	8	Positive-Intermediate	227	IC50 nM
+1166	H2-Kb	VSLDYINTM	9	Positive-High	0.77	IC50 nM
+1167	H2-Kb	VSLIKIPCL	9	Positive-Low	521	IC50 nM
+1168	H2-Kb	VSLVQRIL	8	Positive-Intermediate	54.6	IC50 nM
+1169	H2-Kb	VSNKFYIRL	9	Positive-High	22.3	IC50 nM
+1170	H2-Kb	VSPLFQKL	8	Positive	-	-
+1171	H2-Kb	VSQVQRLL	8	Positive-Low	2810	IC50 nM
+1172	H2-Kb	VSRDFTLV	8	Positive	-	-
+1173	H2-Kb	VSSFNNGTLI	10	Positive-Low	3380	IC50 nM
+1174	H2-Kb	VSSIFLHL	8	Positive-High	21.3	IC50 nM
+1175	H2-Kb	VSSIFLHLL	9	Positive-High	34.9	IC50 nM
+1176	H2-Kb	VSSLHLSI	8	Positive-Intermediate	177	IC50 nM
+1177	H2-Kb	VSTNTGNL	8	Positive-Low	1540	IC50 nM
+1178	H2-Kb	VSTQLKTLML	10	Positive-Low	639	IC50 nM
+1179	H2-Kb	VSVMLTRL	8	Positive	-	-
+1180	H2-Kb	VSVWVCWL	8	Positive	-	-
+1181	H2-Kb	VSWTMKIL	8	Positive-Intermediate	458	IC50 nM
+1182	H2-Kb	VSYFRPLL	8	Positive-High	7.77	IC50 nM
+1183	H2-Kb	VSYFRPLLW	9	Positive-Intermediate	184	IC50 nM
+1184	H2-Kb	VSYLCHLI	8	Positive-High	1.57	IC50 nM
+1185	H2-Kb	VSYLCHLIT	9	Positive-Low	2270	IC50 nM
+1186	H2-Kb	VSYMCHFIT	9	Positive-Intermediate	314	IC50 nM
+1187	H2-Kb	VSYVNTNM	8	Positive-High	26.9	IC50 nM
+1188	H2-Kb	VTFPYPYM	8	Positive	-	-
+1189	H2-Kb	VTHRFTLV	8	Positive	-	-
+1190	H2-Kb	VTLPTGQCL	9	Positive	-	-
+1191	H2-Kb	VTLTMQRL	8	Positive-High	32.7	IC50 nM
+1192	H2-Kb	VTMVSVLPL	9	Positive-Intermediate	383	IC50 nM
+1193	H2-Kb	VTPLLKIL	8	Positive-Low	3700	IC50 nM
+1194	H2-Kb	VVCNAAML	8	Positive-Low	4040	IC50 nM
+1195	H2-Kb	VVFGINSLF	9	Positive-High	16.3	IC50 nM
+1196	H2-Kb	VVMAYVGI	8	Positive-High	45.3	IC50 nM
+1197	H2-Kb	VVPDGYNLM	9	Positive-Low	1100	IC50 nM
+1198	H2-Kb	VVRKLVRKL	9	Positive-Low	1270	IC50 nM
+1199	H2-Kb	VVSYFRPLL	9	Positive-Intermediate	132	IC50 nM
+1200	H2-Kb	VVYDFLKC	8	Positive	-	-
+1201	H2-Kb	VVYKLLRFL	9	Positive-High	43.4	IC50 nM
+1202	H2-Kb	VVYPSVMTF	9	Positive-High	15	IC50 nM
+1203	H2-Kb	VVYSYHYL	8	Positive	-	-
+1204	H2-Kb	VVYSYTVEC	9	Positive-Intermediate	254	IC50 nM
+1205	H2-Kb	VVYVDFLKC	9	Positive	-	-
+1206	H2-Kb	VWGEEVPLL	9	Positive-Intermediate	66	IC50 nM
+1207	H2-Kb	VWLSVIWM	8	Positive-Intermediate	54	IC50 nM
+1208	H2-Kb	VYDFAFRDL	9	Positive	5100	IC50 nM
+1209	H2-Kb	VYDFAFRDLA	10	Positive	44000	IC50 nM
+1210	H2-Kb	VYDFFVWL	8	Positive	-	-
+1211	H2-Kb	VYIEVLHL	8	Positive	210.7	EC50 nM
+1212	H2-Kb	VYINTALL	8	Positive-High	13	IC50 nM
+1213	H2-Kb	VYNFATCG	8	Positive	-	-
+1214	H2-Kb	VYQFKSVEF	9	Positive-Low	1370	IC50 nM
+1215	H2-Kb	VYQFKSVEFD	10	Positive-Intermediate	68.9	IC50 nM
+1216	H2-Kb	VYQFKSVEFDM	11	Positive-Intermediate	346	IC50 nM
+1217	H2-Kb	WANFKFRD	8	Positive-Low	3660	IC50 nM
+1218	H2-Kb	WANFKFRDL	9	Positive-Intermediate	83.9	IC50 nM
+1219	H2-Kb	WANFKFRDLL	10	Positive-Intermediate	248	IC50 nM
+1220	H2-Kb	WANFKFRDLLF	11	Positive-Intermediate	107	IC50 nM
+1221	H2-Kb	WGPSLYSIL	9	Positive-Intermediate	284	IC50 nM
+1222	H2-Kb	WHFPFFIL	8	Positive	-	-
+1223	H2-Kb	WLVTNGSYL	9	Positive-Low	1890	IC50 nM
+1224	H2-Kb	WNYYLSCKL	9	Positive-Intermediate	430	IC50 nM
+1225	H2-Kb	WPKDFTFV	8	Positive	-	-
+1226	H2-Kb	WQTMYTNV	8	Positive-High	6.6	IC50 nM
+1227	H2-Kb	YAHFMPTNL	9	Positive	13	t1/2 (min)
+1228	H2-Kb	YCYSLYGTT	9	Positive-Low	-	-
+1229	H2-Kb	YDFAFRDL	8	Positive	4000	IC50 nM
+1230	H2-Kb	YDFAFRDLA	9	Positive-Low	56000	IC50 nM
+1231	H2-Kb	YEIQYVDL	8	Positive	-	-
+1232	H2-Kb	YIFAFRDL	8	Positive	100	t1/2 (min)
+1233	H2-Kb	YIIILAVL	8	Positive-Intermediate	171	IC50 nM
+1234	H2-Kb	YKICLSGDGW	10	Positive-Low	4380	IC50 nM
+1235	H2-Kb	YMLENIQVM	9	Positive-Low	4195	IC50 nM
+1236	H2-Kb	YMVPFIPL	8	Positive-High	31.1	IC50 nM
+1237	H2-Kb	YNFATCGL	8	Positive-Low	576	IC50 nM
+1238	H2-Kb	YNFSLGAA	8	Positive-High	19.3	IC50 nM
+1239	H2-Kb	YNFSLGAAV	9	Positive-Low	1040	IC50 nM
+1240	H2-Kb	YNFSLGAAVK	10	Positive-Low	570	IC50 nM
+1241	H2-Kb	YNYSLSAAV	9	Positive-Intermediate	246	IC50 nM
+1242	H2-Kb	YPAFMPTNL	9	Positive	-	-
+1243	H2-Kb	YPHAMPTNL	9	Positive	-	-
+1244	H2-Kb	YPHFAPTNL	9	Positive	-	-
+1245	H2-Kb	YPHFMATNL	9	Positive	-	-
+1246	H2-Kb	YPHFMPANL	9	Positive	-	-
+1247	H2-Kb	YPHFMPTAL	9	Positive	-	-
+1248	H2-Kb	YPHFMPTNA	9	Positive	-	-
+1249	H2-Kb	YPHFMPTNL	9	Positive	19	t1/2 (min)
+1250	H2-Kb	YPIINYEYAI	10	Positive	-	-
+1251	H2-Kb	YQFKSVEF	8	Positive-Low	3470	IC50 nM
+1252	H2-Kb	YQFKSVEFD	9	Positive-High	10.3	IC50 nM
+1253	H2-Kb	YQFKSVEFDM	10	Positive-Intermediate	112	IC50 nM
+1254	H2-Kb	YQYSFPEL	8	Positive	-	-
+1255	H2-Kb	YRDGNPYAV	9	Positive-Low	-	-
+1256	H2-Kb	YRFLFAFL	8	Positive	5.4	IC50 nM
+1257	H2-Kb	YSGKYRHM	8	Positive-Intermediate	154	IC50 nM
+1258	H2-Kb	YSILSPFL	8	Positive-Low	1111	IC50 nM
+1259	H2-Kb	YSLQFTNL	8	Positive	-	-
+1260	H2-Kb	YSLVYQAL	8	Positive	-	-
+1261	H2-Kb	YSLYGTTLEQ	10	Positive	-	-
+1262	H2-Kb	YSPSNHHIL	9	Positive-Low	2283	IC50 nM
+1263	H2-Kb	YSQVNPITL	9	Positive-Low	1893	IC50 nM
+1264	H2-Kb	YSRYFGNV	8	Positive-High	14.5	IC50 nM
+1265	H2-Kb	YSYTIVSSL	9	Positive-Intermediate	431	IC50 nM
+1266	H2-Kb	YTAKYPNL	8	Positive-High	48.7	IC50 nM
+1267	H2-Kb	YTAKYPNLND	10	Positive-Low	1900	IC50 nM
+1268	H2-Kb	YTLIYRQL	8	Positive-High	6.02	IC50 nM
+1269	H2-Kb	YTVKFPNL	8	Positive-High	5.71	IC50 nM
+1270	H2-Kb	YTVKFPNLI	9	Positive-Low	610	IC50 nM
+1271	H2-Kb	YTVKYPNL	8	Positive-Intermediate	170	IC50 nM
+1272	H2-Kb	YTVLFSDL	8	Positive-High	15.3	IC50 nM
+1273	H2-Kb	YTVLFSDLA	9	Positive-Low	1230	IC50 nM
+1274	H2-Kb	YVYYNLFLL	9	Positive-Intermediate	135	IC50 nM

@@ -1,0 +1,11 @@
+datafile <- read.table("../mhcflurry/Rdata/summary.txt", col.names=c("id","peptide","binding_core","meas_nm","meas_bi","meas_contin","predict","predict_rank"),sep=",", header= FALSE, comment.char="#")
+data <- data.frame(datafile)
+headerline <- which (with(data,peptide=="peptide"))
+data <- data[-headerline,]
+meas <- as.numeric(as.character(data$meas_contin))
+pred <- as.numeric(as.character(data$predict))
+lg <- lm(meas~pred)
+summary(lg)
+pdf("mhcflurry_r.pdf")
+plot(meas,pred,pch=1,cex=1.5,col="red",main="mhcflurry",xlab="1 - Ln(Meas)/Ln(50k)",ylab="1 - Ln(Pred)/Ln(50k)")
+dev.off()
